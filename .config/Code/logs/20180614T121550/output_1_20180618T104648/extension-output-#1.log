@@ -1,0 +1,184 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /home/alberto
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git show :Ortiz/flexbox-course/hello-flexbox.html
+> git show :Ortiz/flexbox-course/index.html
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git ls-files --stage -- /home/alberto/.sudo_as_admin_successful
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show :.sudo_as_admin_successful
+> git ls-files --stage -- /home/alberto/.cache/fontconfig/0bd3dc0958fa2205aaaa8ebb13e2872b-le64.cache-7
+> git cat-file -s a135c29b344ab3fec83b0f4101dab5c8bc14a2db
+> git show a135c29b344ab3fec83b0f4101dab5c8bc14a2db
+> git ls-files --stage -- /home/alberto/.cache/fontconfig/14a5e22175779b556eaa434240950366-le64.cache-7
+> git cat-file -s 569f92d5719836cc062b565dcb229a4e380a3208
+> git show 569f92d5719836cc062b565dcb229a4e380a3208
+> git ls-files --stage -- /home/alberto/.cache/fontconfig/1ac9eb803944fde146138c791f5cc56a-le64.cache-7
+> git cat-file -s ee3dfd048fda32d6e0803b88cac4d41c06cf7bea
+> git show ee3dfd048fda32d6e0803b88cac4d41c06cf7bea
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git branch
+> git rm --cached -r -- /home/alberto/.cache/gnome-software/icons/59ea8935437a83567f2d2cd1a9d6c2d4bb8d0c38-atom-256px.png
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git branch
+> git rm --cached -r -- /home/alberto/.bash_history
+error: the following file has staged content different from both the
+file and the HEAD:
+    .bash_history
+(use -f to force removal)
+> git branch
+> git rm --cached -r -- /home/alberto/.bash_history
+error: the following file has staged content different from both the
+file and the HEAD:
+    .bash_history
+(use -f to force removal)
+> git show :Ortiz/flexbox-course/index.html
+> git branch
+> git rm --cached -r -- .
+error: the following files have staged content different from both the
+file and the HEAD:
+    .bash_history
+    .config/Code/Backups/workspaces.json
+    .config/Code/Cache/data_1
+    .config/Code/Cookies
+    .config/Code/Local Storage/file__0.localstorage
+    .config/Code/logs/20180614T121550/exthost1.log
+    .config/Code/logs/20180614T121550/renderer1.log
+    .config/Code/logs/20180614T121550/sharedprocess.log
+    .config/Code/storage.json
+    .config/dconf/user
+    .config/google-chrome/Default/Current Session
+    .config/google-chrome/Default/Current Tabs
+    .config/google-chrome/Default/Download Service/EntryDB/CURRENT
+    .config/google-chrome/Default/Download Service/EntryDB/LOG
+    .config/google-chrome/Default/Download Service/EntryDB/LOG.old
+    .config/google-chrome/Default/Extension State/LOG
+    .config/google-chrome/Default/Extension State/LOG.old
+    .config/google-chrome/Default/GPUCache/index
+    .config/google-chrome/Default/History
+    .config/google-chrome/Default/History Provider Cache
+    .config/google-chrome/Default/Last Session
+    .config/google-chrome/Default/Last Tabs
+    .config/google-chrome/Default/Local Storage/leveldb/LOG
+    .config/google-chrome/Default/Local Storage/leveldb/LOG.old
+    .config/google-chrome/Default/Network Persistent State
+    .config/google-chrome/Default/Preferences
+    .config/google-chrome/Default/Service Worker/Database/LOG
+    .config/google-chrome/Default/Service Worker/Database/LOG.old
+    .config/google-chrome/Default/Sync Data/LevelDB/LOG
+    .config/google-chrome/Default/Sync Data/LevelDB/LOG.old
+    .config/google-chrome/Default/Sync Extension Settings/pkedcjkdefgpdelpbcmbmeomcjbeemfm/LOG
+    .config/google-chrome/Default/Sync Extension Settings/pkedcjkdefgpdelpbcmbmeomcjbeemfm/LOG.old
+    .config/google-chrome/Default/Thumbnails/LOG
+    .config/google-chrome/Default/Thumbnails/LOG.old
+    .config/google-chrome/Default/Visited Links
+    .config/google-chrome/Default/data_reduction_proxy_leveldb/CURRENT
+    .config/google-chrome/Default/data_reduction_proxy_leveldb/LOG
+    .config/google-chrome/Default/data_reduction_proxy_leveldb/LOG.old
+    .config/google-chrome/Local State
+    .config/google-chrome/ShaderCache/GPUCache/index
+    .local/share/gnome-shell/application_state
+    .local/share/gvfs-metadata/home-d8ae0836.log
+    .local/share/recently-used.xbel
+    .nvm
+(use -f to force removal)
+> git branch
+> git rm --cached -r -- .
+error: the following files have staged content different from both the
+file and the HEAD:
+    .bash_history
+    .config/Code/Backups/workspaces.json
+    .config/Code/Cache/data_1
+    .config/Code/Cookies
+    .config/Code/Local Storage/file__0.localstorage
+    .config/Code/logs/20180614T121550/exthost1.log
+    .config/Code/logs/20180614T121550/renderer1.log
+    .config/Code/logs/20180614T121550/sharedprocess.log
+    .config/Code/storage.json
+    .config/dconf/user
+    .config/google-chrome/Default/Current Session
+    .config/google-chrome/Default/Current Tabs
+    .config/google-chrome/Default/Download Service/EntryDB/CURRENT
+    .config/google-chrome/Default/Download Service/EntryDB/LOG
+    .config/google-chrome/Default/Download Service/EntryDB/LOG.old
+    .config/google-chrome/Default/Extension State/LOG
+    .config/google-chrome/Default/Extension State/LOG.old
+    .config/google-chrome/Default/GPUCache/index
+    .config/google-chrome/Default/History
+    .config/google-chrome/Default/History Provider Cache
+    .config/google-chrome/Default/Last Session
+    .config/google-chrome/Default/Last Tabs
+    .config/google-chrome/Default/Local Storage/leveldb/LOG
+    .config/google-chrome/Default/Local Storage/leveldb/LOG.old
+    .config/google-chrome/Default/Network Persistent State
+    .config/google-chrome/Default/Preferences
+    .config/google-chrome/Default/Service Worker/Database/LOG
+    .config/google-chrome/Default/Service Worker/Database/LOG.old
+    .config/google-chrome/Default/Sync Data/LevelDB/LOG
+    .config/google-chrome/Default/Sync Data/LevelDB/LOG.old
+    .config/google-chrome/Default/Sync Extension Settings/pkedcjkdefgpdelpbcmbmeomcjbeemfm/LOG
+    .config/google-chrome/Default/Sync Extension Settings/pkedcjkdefgpdelpbcmbmeomcjbeemfm/LOG.old
+    .config/google-chrome/Default/Thumbnails/LOG
+    .config/google-chrome/Default/Thumbnails/LOG.old
+    .config/google-chrome/Default/Visited Links
+    .config/google-chrome/Default/data_reduction_proxy_leveldb/CURRENT
+    .config/google-chrome/Default/data_reduction_proxy_leveldb/LOG
+    .config/google-chrome/Default/data_reduction_proxy_leveldb/LOG.old
+    .config/google-chrome/Local State
+    .config/google-chrome/ShaderCache/GPUCache/index
+    .local/share/gnome-shell/application_state
+    .local/share/gvfs-metadata/home-d8ae0836.log
+    .local/share/recently-used.xbel
+    .nvm
+(use -f to force removal)
+> git branch
+> git rm --cached -r -- /home/alberto/.bash_history
+error: the following file has staged content different from both the
+file and the HEAD:
+    .bash_history
+(use -f to force removal)
+> git commit --quiet --allow-empty-message --file - --amend
+fatal: You have nothing to amend.
+> git config --get-all user.name
+> git config --get-all user.email

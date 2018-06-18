@@ -2,9 +2,9 @@
 <application-state>
   <context id="">
     <application id="firefox.desktop" open-window-count="0" score="109" last-seen="1528998420"/>
-    <application id="org.gnome.Nautilus.desktop" open-window-count="0" score="10" last-seen="1529338539"/>
+    <application id="org.gnome.Nautilus.desktop" open-window-count="1" score="27" last-seen="1529340053"/>
     <application id="update-manager.desktop" open-window-count="0" score="2.5" last-seen="1528993943"/>
-    <application id="code.desktop" open-window-count="1" score="24326" last-seen="1529338622"/>
+    <application id="code.desktop" open-window-count="1" score="24512" last-seen="1529340004"/>
     <application id="google-chrome.desktop" open-window-count="0" score="47" last-seen="1529337171"/>
     <application id="gnome-terminal.desktop" open-window-count="0" score="0" last-seen="0"/>
     <application id="spotify_spotify.desktop" open-window-count="0" score="8" last-seen="1529338627"/>

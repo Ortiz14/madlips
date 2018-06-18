@@ -886,3 +886,39 @@ Release Date: 2017-12-20
 [  9508.437] (II) modeset(0): DDCModeFromDetailedTiming: 1057x966 Warning: We only handle separate sync.
 [  9508.437] (II) modeset(0): Using hsync ranges from config file
 [  9508.437] (II) modeset(0): Using vrefresh ranges from config file
+[ 12051.355] (II) modeset(0): EDID vendor "VBX", prod id 0
+[ 12051.355] (II) modeset(0): DDCModeFromDetailedTiming: 1920x975 Warning: We only handle separate sync.
+[ 12051.355] (II) modeset(0): Using hsync ranges from config file
+[ 12051.355] (II) modeset(0): Using vrefresh ranges from config file
+[ 12051.360] (II) modeset(0): Allocate new frame buffer 1920x975 stride
+[ 12051.993] (II) modeset(0): EDID vendor "VBX", prod id 0
+[ 12051.993] (II) modeset(0): DDCModeFromDetailedTiming: 1920x975 Warning: We only handle separate sync.
+[ 12051.993] (II) modeset(0): Using hsync ranges from config file
+[ 12051.993] (II) modeset(0): Using vrefresh ranges from config file
+[ 12052.529] (II) modeset(0): EDID vendor "VBX", prod id 0
+[ 12052.529] (II) modeset(0): DDCModeFromDetailedTiming: 1056x446 Warning: We only handle separate sync.
+[ 12052.529] (II) modeset(0): Using hsync ranges from config file
+[ 12052.529] (II) modeset(0): Using vrefresh ranges from config file
+[ 12053.191] (II) modeset(0): Allocate new frame buffer 1056x446 stride
+[ 12053.468] (II) modeset(0): EDID vendor "VBX", prod id 0
+[ 12053.468] (II) modeset(0): DDCModeFromDetailedTiming: 1056x446 Warning: We only handle separate sync.
+[ 12053.468] (II) modeset(0): Using hsync ranges from config file
+[ 12053.468] (II) modeset(0): Using vrefresh ranges from config file
+[ 12054.786] (II) modeset(0): EDID vendor "VBX", prod id 0
+[ 12054.786] (II) modeset(0): DDCModeFromDetailedTiming: 1920x975 Warning: We only handle separate sync.
+[ 12054.786] (II) modeset(0): Using hsync ranges from config file
+[ 12054.786] (II) modeset(0): Using vrefresh ranges from config file
+[ 12054.886] (II) modeset(0): Allocate new frame buffer 1920x975 stride
+[ 12055.406] (II) modeset(0): EDID vendor "VBX", prod id 0
+[ 12055.406] (II) modeset(0): DDCModeFromDetailedTiming: 1920x975 Warning: We only handle separate sync.
+[ 12055.406] (II) modeset(0): Using hsync ranges from config file
+[ 12055.406] (II) modeset(0): Using vrefresh ranges from config file
+[ 12055.426] (II) modeset(0): EDID vendor "VBX", prod id 0
+[ 12055.426] (II) modeset(0): DDCModeFromDetailedTiming: 1056x966 Warning: We only handle separate sync.
+[ 12055.426] (II) modeset(0): Using hsync ranges from config file
+[ 12055.426] (II) modeset(0): Using vrefresh ranges from config file
+[ 12055.455] (II) modeset(0): Allocate new frame buffer 1056x966 stride
+[ 12055.809] (II) modeset(0): EDID vendor "VBX", prod id 0
+[ 12055.809] (II) modeset(0): DDCModeFromDetailedTiming: 1056x966 Warning: We only handle separate sync.
+[ 12055.809] (II) modeset(0): Using hsync ranges from config file
+[ 12055.809] (II) modeset(0): Using vrefresh ranges from config file
