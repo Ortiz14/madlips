@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="firefox.desktop" open-window-count="0" score="109" last-seen="1528998420"/>
-    <application id="org.gnome.Nautilus.desktop" open-window-count="1" score="27" last-seen="1529340053"/>
+    <application id="firefox.desktop" open-window-count="0" score="109" last-seen="1529341858"/>
+    <application id="org.gnome.Nautilus.desktop" open-window-count="0" score="34" last-seen="1529342111"/>
     <application id="update-manager.desktop" open-window-count="0" score="2.5" last-seen="1528993943"/>
-    <application id="code.desktop" open-window-count="1" score="24512" last-seen="1529340004"/>
-    <application id="google-chrome.desktop" open-window-count="0" score="47" last-seen="1529337171"/>
+    <application id="code.desktop" open-window-count="1" score="24842" last-seen="1529342781"/>
+    <application id="google-chrome.desktop" open-window-count="0" score="63" last-seen="1529342784"/>
+    <application id="org.gnome.gedit.desktop" open-window-count="0" score="0" last-seen="1529341779"/>
     <application id="gnome-terminal.desktop" open-window-count="0" score="0" last-seen="0"/>
-    <application id="spotify_spotify.desktop" open-window-count="0" score="8" last-seen="1529338627"/>
-    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="116.5" last-seen="1529000531"/>
-    <application id="apport-gtk.desktop" open-window-count="1" score="0" last-seen="1529338655"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="0" score="125.5" last-seen="1529341176"/>
+    <application id="apport-gtk.desktop" open-window-count="0" score="1" last-seen="1529340702"/>
     <application id="gnome-initial-setup.desktop" open-window-count="0" score="2.5" last-seen="1528993843"/>
-    <application id="org.gnome.Software.desktop" open-window-count="0" score="14" last-seen="1529338406"/>
+    <application id="org.gnome.Software.desktop" open-window-count="0" score="14" last-seen="1529342142"/>
   </context>
 </application-state>

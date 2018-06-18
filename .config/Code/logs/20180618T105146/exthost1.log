@@ -14,3 +14,17 @@
 [2018-06-18 10:51:56.162] [exthost1] [info] eager extensions activated
 [2018-06-18 10:52:03.298] [exthost1] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
 [2018-06-18 10:52:03.298] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/html-language-features/client/out/htmlMain
+[2018-06-18 10:55:57.500] [exthost1] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-06-18 10:55:57.500] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/configuration-editing/out/extension
+[2018-06-18 10:55:57.532] [exthost1] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-06-18 10:55:57.532] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/json-language-features/client/out/jsonMain
+[2018-06-18 11:09:30.498] [exthost1] [info] ExtensionService#_doActivateExtension techer.open-in-browser {"startup":false,"activationEvent":"onCommand:extension.openInBrowser"}
+[2018-06-18 11:09:30.498] [exthost1] [info] ExtensionService#loadCommonJSModule /home/alberto/.vscode/extensions/techer.open-in-browser-1.1.0/extension
+[2018-06-18 11:32:40.018] [exthost1] [info] ExtensionService#_doActivateExtension ms-vscode.node-debug2 {"startup":false,"activationEvent":"onDebug"}
+[2018-06-18 11:32:40.018] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/ms-vscode.node-debug2/out/src/extension
+[2018-06-18 11:32:40.034] [exthost1] [info] ExtensionService#_doActivateExtension vsmobile.vscode-react-native {"startup":false,"activationEvent":"onDebug"}
+[2018-06-18 11:32:40.034] [exthost1] [info] ExtensionService#loadCommonJSModule /home/alberto/.vscode/extensions/vsmobile.vscode-react-native-0.6.11/src/extension/rn-extension
+[2018-06-18 11:32:40.422] [exthost1] [info] ExtensionService#_doActivateExtension ms-vscode.node-debug {"startup":false,"activationEvent":"onDebugInitialConfigurations"}
+[2018-06-18 11:32:40.422] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/ms-vscode.node-debug/out/node/extension/extension.js
+[2018-06-18 11:32:40.452] [exthost1] [info] ExtensionService#_doActivateExtension msjsdiag.debugger-for-chrome {"startup":false,"activationEvent":"onDebugInitialConfigurations"}
+[2018-06-18 11:32:40.452] [exthost1] [info] ExtensionService#loadCommonJSModule /home/alberto/.vscode/extensions/msjsdiag.debugger-for-chrome-4.6.0/out/src/extension

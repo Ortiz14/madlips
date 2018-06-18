@@ -73,12 +73,25 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/alberto/Ortiz/flexbox-course" added="2018-06-18T16:46:43Z" modified="2018-06-18T16:46:43Z" visited="2018-06-18T16:46:43.282459Z">
+  <bookmark href="file:///home/alberto/Ortiz/flexbox-course" added="2018-06-18T16:46:43Z" modified="2018-06-18T16:46:43Z" visited="2018-06-18T16:46:43Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
           <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2018-06-18T16:46:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alberto/Ortiz/flexbox-course/indext.html" added="2018-06-18T17:09:31Z" modified="2018-06-18T17:09:39Z" visited="2018-06-18T17:09:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-06-18T17:09:39Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>

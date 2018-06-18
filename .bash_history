@@ -19,3 +19,6 @@ git statutes
 sudo apt install curl
 node -v
 npm -v
+Ocd ~/code/flexbox-course
+/code/flexbox-course
+Ocd ~/Ortiz/flexbox-course
