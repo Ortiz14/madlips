@@ -1,0 +1,30 @@
+[2018-06-14 11:27:28.307] [sharedprocess] [info] main {"machineId":"c106f26b37f394e88737a798310b2d62c8ee54b2f66f9eafa9ede5136ef3a8a8"}
+[2018-06-14 11:27:28.508] [sharedprocess] [info] Scanned user extensions: 6
+[2018-06-14 11:27:28.666] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-14 11:27:30.033] [sharedprocess] [info] Scanned user extensions: 6
+[2018-06-14 11:27:30.042] [sharedprocess] [info] Scanned user extensions: 6
+[2018-06-14 11:27:30.068] [sharedprocess] [info] Scanned user extensions: 6
+[2018-06-14 11:27:30.284] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-14 11:27:30.303] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-14 11:27:32.413] [sharedprocess] [info] Scanned user extensions: 6
+[2018-06-14 11:28:08.355] [sharedprocess] [info] Starting to clean up unused language packs.
+[2018-06-14 11:29:14.319] [sharedprocess] [info] Scanned user extensions: 6
+[2018-06-14 11:29:14.340] [sharedprocess] [info] Scanned user extensions: 6
+[2018-06-14 11:29:14.345] [sharedprocess] [info] Scanned user extensions: 6
+[2018-06-14 11:29:14.547] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-14 11:29:14.559] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-14 11:30:01.750] [sharedprocess] [info] Installing extension: vscode-language-babel
+[2018-06-14 11:30:01.753] [sharedprocess] [info] Scanned user extensions: 6
+[2018-06-14 11:30:02.186] [sharedprocess] [info] Downloaded extension: vscode-language-babel
+[2018-06-14 11:30:02.551] [sharedprocess] [info] Extracted extension to /home/alberto/.vscode/extensions/.mgmcdermott.vscode-language-babel-0.0.14: mgmcdermott.vscode-language-babel-0.0.14
+[2018-06-14 11:30:02.551] [sharedprocess] [info] Renamed to /home/alberto/.vscode/extensions/mgmcdermott.vscode-language-babel-0.0.14
+[2018-06-14 11:30:02.551] [sharedprocess] [info] Installation completed. mgmcdermott.vscode-language-babel-0.0.14
+[2018-06-14 11:30:02.575] [sharedprocess] [info] Extensions installed successfully: mgmcdermott.vscode-language-babel
+[2018-06-14 11:30:02.774] [sharedprocess] [info] Scanned user extensions: 7
+[2018-06-14 11:30:02.879] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-14 11:30:38.966] [sharedprocess] [info] Scanned user extensions: 7
+[2018-06-14 11:30:38.975] [sharedprocess] [info] Scanned user extensions: 7
+[2018-06-14 11:30:39.085] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-14 11:30:39.091] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-14 11:32:32.445] [sharedprocess] [info] Scanned user extensions: 7
+[2018-06-14 11:37:32.472] [sharedprocess] [info] Scanned user extensions: 7

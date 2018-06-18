@@ -1,0 +1,57 @@
+[Running] node "/home/alberto/Documents/Prograrmming/Practice.js"
+[ <3 empty items> ]
+
+[Done] exited with code=0 in 0.211 seconds
+
+[Running] node "/home/alberto/Documents/Prograrmming/Practice.js"
+internal/modules/cjs/loader.js:596
+    throw err;
+    ^
+
+Error: Cannot find module '/home/alberto/Documents/Prograrmming/Practice.js'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:594:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:520:25)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:744:10)
+    at startup (internal/bootstrap/node.js:238:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:572:3)
+
+[Done] exited with code=1 in 0.077 seconds
+
+[Running] node "/home/alberto/Documents/Prograrmming/Practice.js"
+internal/modules/cjs/loader.js:596
+    throw err;
+    ^
+
+Error: Cannot find module '/home/alberto/Documents/Prograrmming/Practice.js'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:594:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:520:25)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:744:10)
+    at startup (internal/bootstrap/node.js:238:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:572:3)
+
+[Done] exited with code=1 in 0.173 seconds
+
+[Running] node "/home/alberto/Documents/Prograrmming/Practice.js"
+internal/modules/cjs/loader.js:596
+    throw err;
+    ^
+
+Error: Cannot find module '/home/alberto/Documents/Prograrmming/Practice.js'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:594:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:520:25)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:744:10)
+    at startup (internal/bootstrap/node.js:238:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:572:3)
+
+[Done] exited with code=1 in 0.188 seconds
+
+[Running] node "/home/alberto/Documents/Prograrmming/Practice.js"
+[ <3 empty items> ]
+
+[Done] exited with code=0 in 0.081 seconds
+
+[Running] node "/home/alberto/Documents/Prograrmming/Practice.js"
+[ <3 empty items> ]
+
+[Done] exited with code=0 in 0.109 seconds
+

@@ -1,0 +1,131 @@
+[2018-06-14 12:15:51.717] [sharedprocess] [info] main {"machineId":"c106f26b37f394e88737a798310b2d62c8ee54b2f66f9eafa9ede5136ef3a8a8"}
+[2018-06-14 12:15:51.941] [sharedprocess] [info] Scanned user extensions: 7
+[2018-06-14 12:15:52.065] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-14 12:15:53.198] [sharedprocess] [info] Scanned user extensions: 7
+[2018-06-14 12:15:53.209] [sharedprocess] [info] Scanned user extensions: 7
+[2018-06-14 12:15:53.318] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-14 12:15:55.675] [sharedprocess] [info] Installing extension: quokka-vscode
+[2018-06-14 12:15:55.688] [sharedprocess] [info] Scanned user extensions: 7
+[2018-06-14 12:15:56.509] [sharedprocess] [info] Downloaded extension: quokka-vscode
+[2018-06-14 12:15:56.689] [sharedprocess] [info] Scanned user extensions: 7
+[2018-06-14 12:15:59.400] [sharedprocess] [info] Extracted extension to /home/alberto/.vscode/extensions/.wallabyjs.quokka-vscode-1.0.131: wallabyjs.quokka-vscode-1.0.131
+[2018-06-14 12:15:59.400] [sharedprocess] [info] Renamed to /home/alberto/.vscode/extensions/wallabyjs.quokka-vscode-1.0.131
+[2018-06-14 12:15:59.400] [sharedprocess] [info] Installation completed. wallabyjs.quokka-vscode-1.0.131
+[2018-06-14 12:15:59.422] [sharedprocess] [info] Extensions installed successfully: wallabyjs.quokka-vscode
+[2018-06-14 12:15:59.550] [sharedprocess] [info] Scanned user extensions: 7
+[2018-06-14 12:15:59.585] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-14 12:16:31.754] [sharedprocess] [info] Starting to clean up unused language packs.
+[2018-06-14 12:20:56.918] [sharedprocess] [info] Scanned user extensions: 7
+[2018-06-14 12:25:56.948] [sharedprocess] [info] Scanned user extensions: 7
+[2018-06-14 12:27:04.989] [sharedprocess] [info] Scanned user extensions: 7
+[2018-06-14 12:27:04.998] [sharedprocess] [info] Scanned user extensions: 7
+[2018-06-14 12:27:05.007] [sharedprocess] [info] Scanned user extensions: 7
+[2018-06-14 12:27:05.184] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-14 12:27:05.191] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-14 12:29:51.777] [sharedprocess] [info] Scanned user extensions: 7
+[2018-06-14 12:29:51.793] [sharedprocess] [info] Scanned user extensions: 7
+[2018-06-14 12:29:51.902] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-14 12:29:51.913] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-14 12:30:56.960] [sharedprocess] [info] Scanned user extensions: 7
+[2018-06-14 12:32:30.003] [sharedprocess] [info] Installing extension: vscode-babel-coloring
+[2018-06-14 12:32:30.009] [sharedprocess] [info] Scanned user extensions: 7
+[2018-06-14 12:32:30.368] [sharedprocess] [info] Downloaded extension: vscode-babel-coloring
+[2018-06-14 12:32:30.712] [sharedprocess] [info] Extracted extension to /home/alberto/.vscode/extensions/.dzannotti.vscode-babel-coloring-0.0.4: dzannotti.vscode-babel-coloring-0.0.4
+[2018-06-14 12:32:30.715] [sharedprocess] [info] Renamed to /home/alberto/.vscode/extensions/dzannotti.vscode-babel-coloring-0.0.4
+[2018-06-14 12:32:30.715] [sharedprocess] [info] Installation completed. dzannotti.vscode-babel-coloring-0.0.4
+[2018-06-14 12:32:30.732] [sharedprocess] [info] Extensions installed successfully: dzannotti.vscode-babel-coloring
+[2018-06-14 12:32:30.977] [sharedprocess] [info] Scanned user extensions: 8
+[2018-06-14 12:32:31.003] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-14 12:32:37.909] [sharedprocess] [info] Scanned user extensions: 8
+[2018-06-14 12:32:37.927] [sharedprocess] [info] Scanned user extensions: 8
+[2018-06-14 12:32:38.053] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-14 12:32:38.057] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-14 12:32:43.926] [sharedprocess] [info] Scanned user extensions: 8
+[2018-06-14 12:32:43.928] [sharedprocess] [info] Uninstalling extension: mgmcdermott.vscode-language-babel-0.0.14
+[2018-06-14 12:32:43.949] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-14 12:32:43.953] [sharedprocess] [info] Successfully uninstalled extension: mgmcdermott.vscode-language-babel-0.0.14
+[2018-06-14 12:32:44.290] [sharedprocess] [info] Scanned user extensions: 7
+[2018-06-14 12:32:44.316] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-14 12:35:57.010] [sharedprocess] [info] Scanned user extensions: 7
+[2018-06-18 09:42:30.285] [sharedprocess] [info] Scanned user extensions: 7
+[2018-06-18 09:47:30.330] [sharedprocess] [info] Scanned user extensions: 7
+[2018-06-18 09:48:03.585] [sharedprocess] [info] Installing extension: open-in-browser
+[2018-06-18 09:48:03.599] [sharedprocess] [info] Scanned user extensions: 7
+[2018-06-18 09:48:03.816] [sharedprocess] [info] Downloaded extension: open-in-browser
+[2018-06-18 09:48:03.961] [sharedprocess] [info] Extracted extension to /home/alberto/.vscode/extensions/.techer.open-in-browser-1.1.0: techer.open-in-browser-1.1.0
+[2018-06-18 09:48:03.962] [sharedprocess] [info] Renamed to /home/alberto/.vscode/extensions/techer.open-in-browser-1.1.0
+[2018-06-18 09:48:03.962] [sharedprocess] [info] Installation completed. techer.open-in-browser-1.1.0
+[2018-06-18 09:48:03.980] [sharedprocess] [info] Extensions installed successfully: techer.open-in-browser
+[2018-06-18 09:48:04.252] [sharedprocess] [info] Scanned user extensions: 8
+[2018-06-18 09:48:04.337] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-18 09:48:19.460] [sharedprocess] [info] Scanned user extensions: 8
+[2018-06-18 09:48:19.494] [sharedprocess] [info] Scanned user extensions: 8
+[2018-06-18 09:48:19.550] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-18 09:48:19.558] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-18 09:49:24.545] [sharedprocess] [info] Scanned user extensions: 8
+[2018-06-18 09:49:24.645] [sharedprocess] [info] Scanned user extensions: 8
+[2018-06-18 09:49:24.812] [sharedprocess] [info] Scanned user extensions: 8
+[2018-06-18 09:49:24.879] [sharedprocess] [info] Scanned user extensions: 8
+[2018-06-18 09:49:24.905] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-18 09:49:24.913] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-18 09:49:24.930] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-18 09:49:24.958] [sharedprocess] [info] Scanned user extensions: 8
+[2018-06-18 09:49:30.323] [sharedprocess] [info] Scanned user extensions: 8
+[2018-06-18 09:54:30.362] [sharedprocess] [info] Scanned user extensions: 8
+[2018-06-18 09:59:30.397] [sharedprocess] [info] Scanned user extensions: 8
+[2018-06-18 10:04:30.424] [sharedprocess] [info] Scanned user extensions: 8
+[2018-06-18 10:05:36.718] [sharedprocess] [info] Installing extension: turbo-console-log
+[2018-06-18 10:05:36.740] [sharedprocess] [info] Scanned user extensions: 8
+[2018-06-18 10:05:37.005] [sharedprocess] [info] Downloaded extension: turbo-console-log
+[2018-06-18 10:05:37.157] [sharedprocess] [info] Extracted extension to /home/alberto/.vscode/extensions/.chakrounanas.turbo-console-log-1.2.5: chakrounanas.turbo-console-log-1.2.5
+[2018-06-18 10:05:37.157] [sharedprocess] [info] Renamed to /home/alberto/.vscode/extensions/chakrounanas.turbo-console-log-1.2.5
+[2018-06-18 10:05:37.157] [sharedprocess] [info] Installation completed. chakrounanas.turbo-console-log-1.2.5
+[2018-06-18 10:05:37.166] [sharedprocess] [info] Extensions installed successfully: chakrounanas.turbo-console-log
+[2018-06-18 10:05:37.470] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-18 10:05:37.600] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-18 10:05:41.473] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-18 10:05:41.531] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-18 10:05:41.665] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-18 10:05:41.777] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-18 10:05:41.809] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-18 10:05:41.811] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-18 10:05:41.826] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-18 10:05:41.860] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-18 10:05:45.745] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-18 10:10:45.807] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-18 10:12:02.095] [sharedprocess] [info] Installing extension: code-runner
+[2018-06-18 10:12:02.108] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-18 10:12:02.541] [sharedprocess] [info] Downloaded extension: code-runner
+[2018-06-18 10:12:03.769] [sharedprocess] [info] Extracted extension to /home/alberto/.vscode/extensions/.formulahendry.code-runner-0.9.3: formulahendry.code-runner-0.9.3
+[2018-06-18 10:12:03.769] [sharedprocess] [info] Renamed to /home/alberto/.vscode/extensions/formulahendry.code-runner-0.9.3
+[2018-06-18 10:12:03.769] [sharedprocess] [info] Installation completed. formulahendry.code-runner-0.9.3
+[2018-06-18 10:12:03.785] [sharedprocess] [info] Extensions installed successfully: formulahendry.code-runner
+[2018-06-18 10:12:04.007] [sharedprocess] [info] Scanned user extensions: 10
+[2018-06-18 10:12:04.049] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-18 10:12:29.330] [sharedprocess] [info] Scanned user extensions: 10
+[2018-06-18 10:12:29.373] [sharedprocess] [info] Scanned user extensions: 10
+[2018-06-18 10:12:29.461] [sharedprocess] [info] Scanned user extensions: 10
+[2018-06-18 10:12:29.512] [sharedprocess] [info] Scanned user extensions: 10
+[2018-06-18 10:12:29.521] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-18 10:12:29.537] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-18 10:12:29.561] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-18 10:12:29.592] [sharedprocess] [info] Scanned user extensions: 10
+[2018-06-18 10:12:33.007] [sharedprocess] [info] Scanned user extensions: 10
+[2018-06-18 10:16:11.296] [sharedprocess] [info] Scanned user extensions: 10
+[2018-06-18 10:16:11.296] [sharedprocess] [info] Uninstalling extension: formulahendry.code-runner-0.9.3
+[2018-06-18 10:16:11.331] [sharedprocess] [info] Scanned user extensions: 11
+[2018-06-18 10:16:11.343] [sharedprocess] [info] Successfully uninstalled extension: formulahendry.code-runner-0.9.3
+[2018-06-18 10:16:11.688] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-18 10:16:11.769] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-18 10:16:20.267] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-18 10:16:20.274] [sharedprocess] [info] Uninstalling extension: chakrounanas.turbo-console-log-1.2.5
+[2018-06-18 10:16:20.309] [sharedprocess] [info] Scanned user extensions: 10
+[2018-06-18 10:16:20.319] [sharedprocess] [info] Successfully uninstalled extension: chakrounanas.turbo-console-log-1.2.5
+[2018-06-18 10:16:20.569] [sharedprocess] [info] Scanned user extensions: 8
+[2018-06-18 10:16:20.616] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-18 10:17:33.075] [sharedprocess] [info] Scanned user extensions: 8
+[2018-06-18 10:22:33.093] [sharedprocess] [info] Scanned user extensions: 8
+[2018-06-18 10:27:33.113] [sharedprocess] [info] Scanned user extensions: 8
+[2018-06-18 10:32:33.139] [sharedprocess] [info] Scanned user extensions: 8
+[2018-06-18 10:37:33.169] [sharedprocess] [info] Scanned user extensions: 8
+[2018-06-18 10:42:33.280] [sharedprocess] [info] Scanned user extensions: 8
