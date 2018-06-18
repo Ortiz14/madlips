@@ -96,4 +96,14 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/alberto/Code/flexbox-course/hello-flexbox.html" added="2018-06-18T18:20:57Z" modified="2018-06-18T18:20:57Z" visited="2018-06-18T18:20:57.385232Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2018-06-18T18:20:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>
