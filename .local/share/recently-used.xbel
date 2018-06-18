@@ -96,12 +96,37 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/alberto/Code/flexbox-course/hello-flexbox.html" added="2018-06-18T18:20:57Z" modified="2018-06-18T18:20:57Z" visited="2018-06-18T18:20:57.385232Z">
+  <bookmark href="file:///home/alberto/Code/flexbox-course/hello-flexbox.html" added="2018-06-18T18:20:57Z" modified="2018-06-18T18:24:14Z" visited="2018-06-18T18:20:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2018-06-18T18:20:57Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-06-18T18:24:07Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;/usr/share/code/code --unity-launch %F&apos;" modified="2018-06-18T18:24:14Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alberto/Ortiz/flexbox-course/index.html" added="2018-06-18T18:23:19Z" modified="2018-06-18T18:23:19Z" visited="2018-06-18T18:23:19Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/html"/>
         <bookmark:applications>
-          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2018-06-18T18:20:57Z" count="1"/>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2018-06-18T18:23:19Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///initrd.img" added="2018-06-18T18:23:55Z" modified="2018-06-18T18:23:55Z" visited="2018-06-18T18:23:55Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-raw-disk-image"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2018-06-18T18:23:55Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

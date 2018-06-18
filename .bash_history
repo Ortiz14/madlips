@@ -22,3 +22,7 @@ npm -v
 Ocd ~/code/flexbox-course
 /code/flexbox-course
 Ocd ~/Ortiz/flexbox-course
+control~
+git init
+git add
+git add .

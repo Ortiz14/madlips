@@ -447,23 +447,23 @@
     "windowsState": {
         "openedWindows": [],
         "lastActiveWindow": {
-            "folderPath": "/home/alberto/Ortiz/flexbox-course",
-            "backupPath": "/home/alberto/.config/Code/Backups/677069e65ed26a3c576838cfd0fdd778",
+            "backupPath": "/home/alberto/.config/Code/Backups/1529343404044",
             "uiState": {
                 "mode": 0,
                 "x": 67,
                 "y": 55,
-                "width": 989,
+                "width": 885,
                 "height": 911
             }
         }
     },
-    "pickerWorkingDir": "/home/alberto/Ortiz",
+    "pickerWorkingDir": "/",
     "openedPathsList": {
-        "workspaces": [
-            "/home/alberto/Ortiz/flexbox-course"
-        ],
+        "workspaces": [],
         "files": [
+            "/home/alberto/Code/flexbox-course/hello-flexbox.html",
+            "/initrd.img",
+            "/home/alberto/Ortiz/flexbox-course/index.html",
             "/home/alberto/Documents/Prograrmming/Test"
         ]
     }
