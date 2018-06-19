@@ -26,3 +26,4 @@ control~
 git init
 git add
 git add .
+git init

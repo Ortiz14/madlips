@@ -457,9 +457,11 @@
             }
         }
     },
-    "pickerWorkingDir": "/",
+    "pickerWorkingDir": "/home/alberto",
     "openedPathsList": {
-        "workspaces": [],
+        "workspaces": [
+            "/home/alberto/Code"
+        ],
         "files": [
             "/home/alberto/Code/flexbox-course/hello-flexbox.html",
             "/initrd.img",

@@ -131,4 +131,14 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/alberto/Code" added="2018-06-19T14:25:58Z" modified="2018-06-19T14:25:58Z" visited="2018-06-19T14:25:59.222093Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2018-06-19T14:25:58Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>
