@@ -15,3 +15,46 @@ fatal: no upstream configured for branch 'master'
 > git show :Code/flexbox-course/hello-flexbox.html
 > git check-ignore -z --stdin
 > git add -A -- .
+> git commit --quiet --allow-empty-message --file - --all
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git show :Code/flexbox-course/hello-flexbox.html
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git show :Code/flexbox-course/hello-flexbox.html
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git ls-tree -l HEAD -- /home/alberto/.config/Code/logs/20180618T122245/output_1_20180619T082600/extension-output-#1.log
+> git show f8a164cce1767146b01a3f2a0fbf3de732fd66bb
+> git show HEAD:.config/Code/logs/20180618T122245/output_1_20180619T082600/extension-output-#1.log
+> git ls-tree -l HEAD -- /home/alberto/.local/share/gnome-shell/application_state
+> git show 00cea6ed6576bb3ec0ded211e7a617418b291620
+> git show HEAD:.local/share/gnome-shell/application_state
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git ls-tree -l HEAD -- /home/alberto/.cache/wallpaper/0_5_952_966_792beab7550410d531e55f95b449f135
+> git show 181ed3bd3449aebdc1952773f30493c848439708
+> git show HEAD:.cache/wallpaper/0_5_952_966_792beab7550410d531e55f95b449f135
+> git check-ignore -z --stdin
