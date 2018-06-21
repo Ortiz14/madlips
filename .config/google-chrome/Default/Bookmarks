@@ -1,0 +1,39 @@
+{
+   "checksum": "4af8faf799c9ffdaa3d89956655d4155",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13174067820156957",
+            "id": "5",
+            "meta_info": {
+               "last_visited_desktop": "13174067820157474"
+            },
+            "name": "ESLint Demo - ESLint - Pluggable JavaScript linter",
+            "type": "url",
+            "url": "https://eslint.org/demo/#eyJ0ZXh0IjoidmFyIGZvbyA9IGJhcjtcbmNvbnNvbGUubG9nKGZvbyk7Iiwib3B0aW9ucyI6eyJwYXJzZXJPcHRpb25zIjp7ImVjbWFWZXJzaW9uIjo1LCJzb3VyY2VUeXBlIjoic2NyaXB0IiwiZWNtYUZlYXR1cmVzIjp7fX0sInJ1bGVzIjp7ImNvbnN0cnVjdG9yLXN1cGVyIjoyLCJuby1jYXNlLWRlY2xhcmF0aW9ucyI6Miwibm8tY2xhc3MtYXNzaWduIjoyLCJuby1jb21wYXJlLW5lZy16ZXJvIjoyLCJuby1jb25kLWFzc2lnbiI6Miwibm8tY29uc29sZSI6Miwibm8tY29uc3QtYXNzaWduIjoyLCJuby1jb25zdGFudC1jb25kaXRpb24iOjIsIm5vLWNvbnRyb2wtcmVnZXgiOjIsIm5vLWRlYnVnZ2VyIjoyLCJuby1kZWxldGUtdmFyIjoyLCJuby1kdXBlLWFyZ3MiOjIsIm5vLWR1cGUtY2xhc3MtbWVtYmVycyI6Miwibm8tZHVwZS1rZXlzIjoyLCJuby1kdXBsaWNhdGUtY2FzZSI6Miwibm8tZW1wdHktY2hhcmFjdGVyLWNsYXNzIjoyLCJuby1lbXB0eS1wYXR0ZXJuIjoyLCJuby1lbXB0eSI6Miwibm8tZXgtYXNzaWduIjoyLCJuby1leHRyYS1ib29sZWFuLWNhc3QiOjIsIm5vLWV4dHJhLXNlbWkiOjIsIm5vLWZhbGx0aHJvdWdoIjoyLCJuby1mdW5jLWFzc2lnbiI6Miwibm8tZ2xvYmFsLWFzc2lnbiI6Miwibm8taW5uZXItZGVjbGFyYXRpb25zIjoyLCJuby1pbnZhbGlkLXJlZ2V4cCI6Miwibm8taXJyZWd1bGFyLXdoaXRlc3BhY2UiOjIsIm5vLW1peGVkLXNwYWNlcy1hbmQtdGFicyI6Miwibm8tbmV3LXN5bWJvbCI6Miwibm8tb2JqLWNhbGxzIjoyLCJuby1vY3RhbCI6Miwibm8tcmVkZWNsYXJlIjoyLCJuby1yZWdleC1zcGFjZXMiOjIsIm5vLXNlbGYtYXNzaWduIjoyLCJuby1zcGFyc2UtYXJyYXlzIjoyLCJuby10aGlzLWJlZm9yZS1zdXBlciI6Miwibm8tdW5kZWYiOjIsIm5vLXVuZXhwZWN0ZWQtbXVsdGlsaW5lIjoyLCJuby11bnJlYWNoYWJsZSI6Miwibm8tdW5zYWZlLWZpbmFsbHkiOjIsIm5vLXVuc2FmZS1uZWdhdGlvbiI6Miwibm8tdW51c2VkLWxhYmVscyI6Miwibm8tdW51c2VkLXZhcnMiOjIsIm5vLXVzZWxlc3MtZXNjYXBlIjoyLCJyZXF1aXJlLXlpZWxkIjoyLCJ1c2UtaXNuYW4iOjIsInZhbGlkLXR5cGVvZiI6Mn0sImVudiI6e319fQ=="
+         } ],
+         "date_added": "13173991100405525",
+         "date_modified": "13174067820156957",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13173991100405530",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13173991100405530",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

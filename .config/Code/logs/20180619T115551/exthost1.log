@@ -1,0 +1,50 @@
+[2018-06-19 11:55:57.419] [exthost1] [info] extension host started
+[2018-06-19 11:55:57.524] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-06-19 11:55:57.524] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/out/extension
+[2018-06-19 11:55:57.739] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-06-19 11:55:57.739] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/out/main
+[2018-06-19 11:55:58.133] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-06-19 11:55:58.133] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2018-06-19 11:55:58.162] [exthost1] [info] ExtensionService#_doActivateExtension vscode.search-rg {"startup":true,"activationEvent":"*"}
+[2018-06-19 11:55:58.162] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/search-rg/out/extension
+[2018-06-19 11:55:58.183] [exthost1] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"activationEvent":"*"}
+[2018-06-19 11:55:58.183] [exthost1] [info] ExtensionService#loadCommonJSModule /home/alberto/.vscode/extensions/esbenp.prettier-vscode-1.5.0/out/src/extension
+[2018-06-19 11:55:58.844] [exthost1] [info] ExtensionService#_doActivateExtension WallabyJs.quokka-vscode {"startup":true,"activationEvent":"*"}
+[2018-06-19 11:55:58.844] [exthost1] [info] ExtensionService#loadCommonJSModule /home/alberto/.vscode/extensions/wallabyjs.quokka-vscode-1.0.131/index
+[2018-06-19 11:55:58.853] [exthost1] [info] eager extensions activated
+[2018-06-19 11:55:58.959] [exthost1] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:javascript"}
+[2018-06-19 11:55:58.959] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/out/extension
+[2018-06-19 11:59:09.526] [exthost1] [info] extension host started
+[2018-06-19 11:59:09.653] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-06-19 11:59:09.653] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/out/extension
+[2018-06-19 11:59:09.858] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-06-19 11:59:09.858] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/out/main
+[2018-06-19 11:59:10.555] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-06-19 11:59:10.555] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2018-06-19 11:59:10.592] [exthost1] [info] ExtensionService#_doActivateExtension vscode.search-rg {"startup":true,"activationEvent":"*"}
+[2018-06-19 11:59:10.592] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/search-rg/out/extension
+[2018-06-19 11:59:10.621] [exthost1] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"activationEvent":"*"}
+[2018-06-19 11:59:10.621] [exthost1] [info] ExtensionService#loadCommonJSModule /home/alberto/.vscode/extensions/esbenp.prettier-vscode-1.5.0/out/src/extension
+[2018-06-19 11:59:11.240] [exthost1] [info] ExtensionService#_doActivateExtension WallabyJs.quokka-vscode {"startup":true,"activationEvent":"*"}
+[2018-06-19 11:59:11.241] [exthost1] [info] ExtensionService#loadCommonJSModule /home/alberto/.vscode/extensions/wallabyjs.quokka-vscode-1.0.131/index
+[2018-06-19 11:59:11.251] [exthost1] [info] eager extensions activated
+[2018-06-19 11:59:27.035] [exthost1] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:javascript"}
+[2018-06-19 11:59:27.036] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/out/extension
+[2018-06-19 12:02:03.230] [exthost1] [info] ExtensionService#_doActivateExtension ms-vscode.node-debug2 {"startup":false,"activationEvent":"onDebug"}
+[2018-06-19 12:02:03.230] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/ms-vscode.node-debug2/out/src/extension
+[2018-06-19 12:02:03.256] [exthost1] [info] ExtensionService#_doActivateExtension vsmobile.vscode-react-native {"startup":false,"activationEvent":"onDebug"}
+[2018-06-19 12:02:03.256] [exthost1] [info] ExtensionService#loadCommonJSModule /home/alberto/.vscode/extensions/vsmobile.vscode-react-native-0.6.11/src/extension/rn-extension
+[2018-06-19 12:02:03.960] [exthost1] [info] ExtensionService#_doActivateExtension ms-vscode.node-debug {"startup":false,"activationEvent":"onDebugInitialConfigurations"}
+[2018-06-19 12:02:03.960] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/ms-vscode.node-debug/out/node/extension/extension.js
+[2018-06-19 12:02:04.005] [exthost1] [info] ExtensionService#_doActivateExtension msjsdiag.debugger-for-chrome {"startup":false,"activationEvent":"onDebugInitialConfigurations"}
+[2018-06-19 12:02:04.005] [exthost1] [info] ExtensionService#loadCommonJSModule /home/alberto/.vscode/extensions/msjsdiag.debugger-for-chrome-4.6.0/out/src/extension
+[2018-06-19 12:08:24.462] [exthost1] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2018-06-19 12:08:24.462] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/extension-editing/out/extension
+[2018-06-20 11:26:38.570] [exthost1] [info] ExtensionService#_doActivateExtension vscode.grunt {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2018-06-20 11:26:38.570] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/grunt/out/main
+[2018-06-20 11:26:38.596] [exthost1] [info] ExtensionService#_doActivateExtension vscode.gulp {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2018-06-20 11:26:38.596] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/gulp/out/main
+[2018-06-20 11:26:38.620] [exthost1] [info] ExtensionService#_doActivateExtension vscode.jake {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2018-06-20 11:26:38.620] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/jake/out/main
+[2018-06-20 11:26:38.655] [exthost1] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2018-06-20 11:26:38.655] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/npm/out/main

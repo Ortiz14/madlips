@@ -1,0 +1,35 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/home/alberto/.nvm/versions/node/v10.4.1/bin/node',
+1 verbose cli   '/home/alberto/.nvm/versions/node/v10.4.1/bin/npm',
+1 verbose cli   'install',
+1 verbose cli   'devcamp-js-builder-g' ]
+2 info using npm@6.1.0
+3 info using node@v10.4.1
+4 verbose npm-session b8444cfc6f84395c
+5 silly install loadCurrentTree
+6 silly install readLocalPackageData
+7 http fetch GET 404 https://registry.npmjs.org/devcamp-js-builder-g 303ms
+8 silly fetchPackageMetaData error for devcamp-js-builder-g@latest 404 Not Found: devcamp-js-builder-g@latest
+9 timing stage:rollbackFailedOptional Completed in 0ms
+10 timing stage:runTopLevelLifecycles Completed in 584ms
+11 verbose stack Error: 404 Not Found: devcamp-js-builder-g@latest
+11 verbose stack     at fetch.then.res (/home/alberto/.nvm/versions/node/v10.4.1/lib/node_modules/npm/node_modules/pacote/lib/fetchers/registry/fetch.js:42:19)
+11 verbose stack     at tryCatcher (/home/alberto/.nvm/versions/node/v10.4.1/lib/node_modules/npm/node_modules/bluebird/js/release/util.js:16:23)
+11 verbose stack     at Promise._settlePromiseFromHandler (/home/alberto/.nvm/versions/node/v10.4.1/lib/node_modules/npm/node_modules/bluebird/js/release/promise.js:512:31)
+11 verbose stack     at Promise._settlePromise (/home/alberto/.nvm/versions/node/v10.4.1/lib/node_modules/npm/node_modules/bluebird/js/release/promise.js:569:18)
+11 verbose stack     at Promise._settlePromise0 (/home/alberto/.nvm/versions/node/v10.4.1/lib/node_modules/npm/node_modules/bluebird/js/release/promise.js:614:10)
+11 verbose stack     at Promise._settlePromises (/home/alberto/.nvm/versions/node/v10.4.1/lib/node_modules/npm/node_modules/bluebird/js/release/promise.js:693:18)
+11 verbose stack     at Async._drainQueue (/home/alberto/.nvm/versions/node/v10.4.1/lib/node_modules/npm/node_modules/bluebird/js/release/async.js:133:16)
+11 verbose stack     at Async._drainQueues (/home/alberto/.nvm/versions/node/v10.4.1/lib/node_modules/npm/node_modules/bluebird/js/release/async.js:143:10)
+11 verbose stack     at Immediate.Async.drainQueues [as _onImmediate] (/home/alberto/.nvm/versions/node/v10.4.1/lib/node_modules/npm/node_modules/bluebird/js/release/async.js:17:14)
+11 verbose stack     at runCallback (timers.js:696:18)
+11 verbose stack     at tryOnImmediate (timers.js:667:5)
+11 verbose stack     at processImmediate (timers.js:649:5)
+12 verbose cwd /home/alberto/Code/JavaScript-couse
+13 verbose Linux 4.15.0-23-generic
+14 verbose argv "/home/alberto/.nvm/versions/node/v10.4.1/bin/node" "/home/alberto/.nvm/versions/node/v10.4.1/bin/npm" "install" "devcamp-js-builder-g"
+15 verbose node v10.4.1
+16 verbose npm  v6.1.0
+17 error code E404
+18 error 404 Not Found: devcamp-js-builder-g@latest
+19 verbose exit [ 1, true ]

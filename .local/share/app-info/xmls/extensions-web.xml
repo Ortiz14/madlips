@@ -433,6 +433,9 @@
         <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_3_crANJjx.png</image>
       </screenshot>
     </screenshots>
+    <releases>
+      <release version="40"/>
+    </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
       <value key="GnomeSoftware::Plugin">shell-extensions</value>
@@ -1925,6 +1928,9 @@
         <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_4.png</image>
       </screenshot>
     </screenshots>
+    <releases>
+      <release version="27"/>
+    </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
       <value key="GnomeSoftware::Plugin">shell-extensions</value>
@@ -7200,6 +7206,32 @@
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
       <value key="GnomeSoftware::Plugin">shell-extensions</value>
       <value key="shell-extensions::uuid">discrete-brightness@gs.eros2.info</value>
+    </metadata>
+  </component>
+  <component type="shell-extension">
+    <id>disk-space-usage_atareao.es</id>
+    <name>Disk space usage</name>
+    <summary>GNOME Shell Extension</summary>
+    <description><p>Show disk space usage for all device mounted in your machine</p></description>
+    <icon type="stock">application-x-addon-symbolic</icon>
+    <categories>
+      <category>Addon</category>
+      <category>ShellExtension</category>
+    </categories>
+    <project_license>GPL-2.0+</project_license>
+    <url type="homepage">https://extensions.gnome.org/extension/1447/disk-space-usage/</url>
+    <screenshots>
+      <screenshot type="default">
+        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_1447.png</image>
+      </screenshot>
+    </screenshots>
+    <releases>
+      <release version="1"/>
+    </releases>
+    <metadata>
+      <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
+      <value key="GnomeSoftware::Plugin">shell-extensions</value>
+      <value key="shell-extensions::uuid">disk-space-usage@atareao.es</value>
     </metadata>
   </component>
   <component type="shell-extension">
@@ -14185,6 +14217,9 @@
         <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_750.png</image>
       </screenshot>
     </screenshots>
+    <releases>
+      <release version="95"/>
+    </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
       <value key="GnomeSoftware::Plugin">shell-extensions</value>
@@ -14485,6 +14520,9 @@
         <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_708_1.png</image>
       </screenshot>
     </screenshots>
+    <releases>
+      <release version="36"/>
+    </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
       <value key="GnomeSoftware::Plugin">shell-extensions</value>
@@ -15821,6 +15859,9 @@
         <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_473.png</image>
       </screenshot>
     </screenshots>
+    <releases>
+      <release version="7"/>
+    </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
       <value key="GnomeSoftware::Plugin">shell-extensions</value>
@@ -19121,6 +19162,32 @@
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
       <value key="GnomeSoftware::Plugin">shell-extensions</value>
       <value key="shell-extensions::uuid">transparent-gnome-panel@ttomovcik.com</value>
+    </metadata>
+  </component>
+  <component type="shell-extension">
+    <id>transparent-window-moving_noobsai.github.com</id>
+    <name>Transparent Window Moving</name>
+    <summary>GNOME Shell Extension</summary>
+    <description><p>Makes the window semi-transparent when moving or resizing</p></description>
+    <icon type="stock">application-x-addon-symbolic</icon>
+    <categories>
+      <category>Addon</category>
+      <category>ShellExtension</category>
+    </categories>
+    <project_license>GPL-2.0+</project_license>
+    <url type="homepage">https://extensions.gnome.org/extension/1446/transparent-window-moving/</url>
+    <screenshots>
+      <screenshot type="default">
+        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_1446.png</image>
+      </screenshot>
+    </screenshots>
+    <releases>
+      <release version="2"/>
+    </releases>
+    <metadata>
+      <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
+      <value key="GnomeSoftware::Plugin">shell-extensions</value>
+      <value key="shell-extensions::uuid">transparent-window-moving@noobsai.github.com</value>
     </metadata>
   </component>
   <component type="shell-extension">

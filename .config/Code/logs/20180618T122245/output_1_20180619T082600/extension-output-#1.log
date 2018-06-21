@@ -58,3 +58,13 @@ fatal: no upstream configured for branch 'master'
 > git show 181ed3bd3449aebdc1952773f30493c848439708
 > git show HEAD:.cache/wallpaper/0_5_952_966_792beab7550410d531e55f95b449f135
 > git check-ignore -z --stdin
+> git add -A -- .
+> git commit --quiet --allow-empty-message --file - --all
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template

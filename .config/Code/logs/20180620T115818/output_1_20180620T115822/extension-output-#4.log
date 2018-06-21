@@ -1,0 +1,60 @@
+[Error - 9:44:04 AM] Error while computing completions for file:///home/alberto/Code/JavaScript-couse/LodashJavaScript.html: Cannot read property 'flags' of undefined
+TypeError: Cannot read property 'flags' of undefined
+    at getApparentType (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/typescript.js:32821:25)
+    at Object.getPropertiesOfType (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/typescript.js:32566:20)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/typescript.js:88828:44
+    at Object.flatMap (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/typescript.js:2093:25)
+    at tryGetClassLikeCompletionSymbols (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/typescript.js:88826:42)
+    at tryGetGlobalSymbols (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/typescript.js:88366:24)
+    at getCompletionData (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/typescript.js:88268:22)
+    at Object.getCompletionsAtPosition (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/typescript.js:87512:34)
+    at Object.getCompletionsAtPosition (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/typescript.js:107393:35)
+    at doComplete (/usr/share/code/resources/app/extensions/html-language-features/server/out/modes/javascriptMode.js:78:49)
+[Error - 9:44:06 AM] Error while computing completions for file:///home/alberto/Code/JavaScript-couse/LodashJavaScript.html: Cannot read property 'flags' of undefined
+TypeError: Cannot read property 'flags' of undefined
+    at getApparentType (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/typescript.js:32821:25)
+    at Object.getPropertiesOfType (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/typescript.js:32566:20)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/typescript.js:88828:44
+    at Object.flatMap (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/typescript.js:2093:25)
+    at tryGetClassLikeCompletionSymbols (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/typescript.js:88826:42)
+    at tryGetGlobalSymbols (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/typescript.js:88366:24)
+    at getCompletionData (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/typescript.js:88268:22)
+    at Object.getCompletionsAtPosition (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/typescript.js:87512:34)
+    at Object.getCompletionsAtPosition (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/typescript.js:107393:35)
+    at doComplete (/usr/share/code/resources/app/extensions/html-language-features/server/out/modes/javascriptMode.js:78:49)
+[Error - 9:44:08 AM] Error while computing completions for file:///home/alberto/Code/JavaScript-couse/LodashJavaScript.html: Cannot read property 'flags' of undefined
+TypeError: Cannot read property 'flags' of undefined
+    at getApparentType (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/typescript.js:32821:25)
+    at Object.getPropertiesOfType (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/typescript.js:32566:20)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/typescript.js:88828:44
+    at Object.flatMap (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/typescript.js:2093:25)
+    at tryGetClassLikeCompletionSymbols (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/typescript.js:88826:42)
+    at tryGetGlobalSymbols (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/typescript.js:88366:24)
+    at getCompletionData (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/typescript.js:88268:22)
+    at Object.getCompletionsAtPosition (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/typescript.js:87512:34)
+    at Object.getCompletionsAtPosition (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/typescript.js:107393:35)
+    at doComplete (/usr/share/code/resources/app/extensions/html-language-features/server/out/modes/javascriptMode.js:78:49)
+[Error - 9:44:08 AM] Error while computing completions for file:///home/alberto/Code/JavaScript-couse/LodashJavaScript.html: Cannot read property 'flags' of undefined
+TypeError: Cannot read property 'flags' of undefined
+    at getApparentType (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/typescript.js:32821:25)
+    at Object.getPropertiesOfType (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/typescript.js:32566:20)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/typescript.js:88828:44
+    at Object.flatMap (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/typescript.js:2093:25)
+    at tryGetClassLikeCompletionSymbols (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/typescript.js:88826:42)
+    at tryGetGlobalSymbols (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/typescript.js:88366:24)
+    at getCompletionData (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/typescript.js:88268:22)
+    at Object.getCompletionsAtPosition (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/typescript.js:87512:34)
+    at Object.getCompletionsAtPosition (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/typescript.js:107393:35)
+    at doComplete (/usr/share/code/resources/app/extensions/html-language-features/server/out/modes/javascriptMode.js:78:49)
+[Error - 9:44:09 AM] Error while computing completions for file:///home/alberto/Code/JavaScript-couse/LodashJavaScript.html: Cannot read property 'flags' of undefined
+TypeError: Cannot read property 'flags' of undefined
+    at getApparentType (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/typescript.js:32821:25)
+    at Object.getPropertiesOfType (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/typescript.js:32566:20)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/typescript.js:88828:44
+    at Object.flatMap (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/typescript.js:2093:25)
+    at tryGetClassLikeCompletionSymbols (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/typescript.js:88826:42)
+    at tryGetGlobalSymbols (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/typescript.js:88366:24)
+    at getCompletionData (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/typescript.js:88268:22)
+    at Object.getCompletionsAtPosition (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/typescript.js:87512:34)
+    at Object.getCompletionsAtPosition (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/typescript.js:107393:35)
+    at doComplete (/usr/share/code/resources/app/extensions/html-language-features/server/out/modes/javascriptMode.js:78:49)

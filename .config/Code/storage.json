@@ -63,7 +63,7 @@
         },
         "workbench.action.closeWindow": {
             "id": "workbench.action.closeWindow",
-            "label": "Ctrl+Shift+W",
+            "label": "Ctrl+W",
             "isNative": true
         },
         "workbench.action.closeFolder": {
@@ -447,22 +447,29 @@
     "windowsState": {
         "openedWindows": [],
         "lastActiveWindow": {
-            "backupPath": "/home/alberto/.config/Code/Backups/1529343404044",
+            "folderPath": "/home/alberto/Code/JavaScript-couse",
+            "backupPath": "/home/alberto/.config/Code/Backups/1926c3efc5b9a6dce3bad72617c5ccd7",
             "uiState": {
-                "mode": 0,
+                "mode": 1,
                 "x": 67,
-                "y": 55,
-                "width": 885,
-                "height": 911
+                "y": 57,
+                "width": 1155,
+                "height": 918
             }
         }
     },
-    "pickerWorkingDir": "/home/alberto",
+    "pickerWorkingDir": "/home/alberto/Desktop",
     "openedPathsList": {
         "workspaces": [
+            "/home/alberto/Desktop/ModuleSection",
+            "/home/alberto/Code/JavaScript-couse",
+            "/home/alberto/Code/flexbox-course",
             "/home/alberto/Code"
         ],
         "files": [
+            "/home/alberto/Documents/codetosuccess/index.html",
+            "/home/alberto/Code/JavaScript-couse/ModernJavaScriptTools.js",
+            "/home/alberto/Code/JavaScript-couse/JavaScriptBasics.js",
             "/home/alberto/Code/flexbox-course/hello-flexbox.html",
             "/initrd.img",
             "/home/alberto/Ortiz/flexbox-course/index.html",

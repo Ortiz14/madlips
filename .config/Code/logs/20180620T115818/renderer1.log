@@ -1,0 +1,25 @@
+[2018-06-20 11:58:23.078] [renderer1] [info] no standard startup: not the explorer viewlet
+[2018-06-21 09:52:40.628] [renderer1] [info] no standard startup: not a new window
+[2018-06-21 10:30:03.539] [renderer1] [info] no standard startup: not just one text editor
+[2018-06-21 10:47:18.925] [renderer1] [error] Unable to write into user settings. Please open the user settings to correct errors/warnings in it and try again.: Error: Unable to write into user settings. Please open the user settings to correct errors/warnings in it and try again.
+    at new t (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:4104:450)
+    at e.wrapError (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:4108:460)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:4112:685
+    at Object.g [as _notify] (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:149:807)
+    at Object.enter (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:153:85)
+    at n.Class.derive._creator._run (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:154:896)
+    at n.Class.derive._creator._completed (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:154:337)
+    at n.Class.derive._creator.then (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:156:366)
+    at Object.enter (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:152:184)
+    at n.Class.derive._creator._run (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:154:896)
+    at n.Class.derive._creator._setCompleteValue (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:154:590)
+    at Object.g [as _notify] (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:149:787)
+    at Object.enter (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:153:85)
+    at n.Class.derive._oncancel._run (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:154:896)
+    at n.Class.derive._oncancel._completed (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:154:337)
+    at IconvLiteDecoderStream.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1049:232)
+    at emitNone (events.js:91:20)
+    at IconvLiteDecoderStream.emit (events.js:188:7)
+    at endReadableNT (_stream_readable.js:975:12)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickCallback (internal/process/next_tick.js:104:9)

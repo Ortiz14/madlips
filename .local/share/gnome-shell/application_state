@@ -1,17 +1,15 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="firefox.desktop" open-window-count="0" score="54.5" last-seen="1529341858"/>
-    <application id="gedit.desktop" open-window-count="0" score="0" last-seen="0"/>
-    <application id="org.gnome.Nautilus.desktop" open-window-count="1" score="29" last-seen="1529418332"/>
-    <application id="update-manager.desktop" open-window-count="0" score="1.25" last-seen="1528993943"/>
-    <application id="code.desktop" open-window-count="1" score="17776" last-seen="1529418297"/>
-    <application id="google-chrome.desktop" open-window-count="0" score="47.5" last-seen="1529345891"/>
+    <application id="firefox.desktop" open-window-count="0" score="13.625" last-seen="1529341858"/>
+    <application id="org.gnome.Nautilus.desktop" open-window-count="0" score="9.25" last-seen="1529599554"/>
+    <application id="update-manager.desktop" open-window-count="0" score="0.3125" last-seen="1528993943"/>
+    <application id="code.desktop" open-window-count="1" score="13545" last-seen="1529599339"/>
+    <application id="google-chrome.desktop" open-window-count="1" score="1342.625" last-seen="1529599300"/>
     <application id="org.gnome.gedit.desktop" open-window-count="0" score="0" last-seen="1529346250"/>
-    <application id="gnome-terminal.desktop" open-window-count="0" score="0" last-seen="0"/>
-    <application id="org.gnome.Terminal.desktop" open-window-count="0" score="62.75" last-seen="1529341176"/>
-    <application id="apport-gtk.desktop" open-window-count="0" score="0.5" last-seen="1529340702"/>
-    <application id="gnome-initial-setup.desktop" open-window-count="0" score="1.25" last-seen="1528993843"/>
-    <application id="org.gnome.Software.desktop" open-window-count="0" score="7" last-seen="1529346162"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="44.6875" last-seen="1529599544"/>
+    <application id="apport-gtk.desktop" open-window-count="0" score="0.125" last-seen="1529340702"/>
+    <application id="gnome-initial-setup.desktop" open-window-count="0" score="0.3125" last-seen="1528993843"/>
+    <application id="org.gnome.Software.desktop" open-window-count="0" score="1.75" last-seen="1529346162"/>
   </context>
 </application-state>

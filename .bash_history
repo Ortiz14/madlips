@@ -27,3 +27,13 @@ git init
 git add
 git add .
 git init
+npm -v
+npm install devcamp-js-builder-g
+sudo npm install devcamp-js-builder-g
+sudo npm install devcamp-js-builder -g -f
+npm install devcamp-js-builder -g
+js-generate
+npm install devcamp-js-builder -g
+cd ~/Desktop/
+js-generate
+cd ModuleSection
