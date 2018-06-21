@@ -96,7 +96,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/alberto/Code/flexbox-course/hello-flexbox.html" added="2018-06-18T18:20:57Z" modified="2018-06-18T18:24:14Z" visited="2018-06-18T18:20:57Z">
+  <bookmark href="file:///home/alberto/Code/flexbox-course/hello-flexbox.html" added="2018-06-18T18:20:57Z" modified="2018-06-21T17:11:55Z" visited="2018-06-18T18:20:57Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/plain"/>
@@ -141,7 +141,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/alberto/Code/flexbox-course" added="2018-06-19T14:27:47Z" modified="2018-06-19T14:27:47Z" visited="2018-06-19T14:27:47Z">
+  <bookmark href="file:///home/alberto/Code/flexbox" added="2018-06-19T14:27:47Z" modified="2018-06-21T17:10:10Z" visited="2018-06-19T14:27:47Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
@@ -151,7 +151,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/alberto/Code/flexbox-course/index.html" added="2018-06-19T14:51:12Z" modified="2018-06-19T14:51:12Z" visited="2018-06-19T14:51:12Z">
+  <bookmark href="file:///home/alberto/Code/flexbox-course/index.html" added="2018-06-19T14:51:12Z" modified="2018-06-21T17:12:03Z" visited="2018-06-19T14:51:12Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/html"/>
@@ -161,7 +161,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/alberto/Code/flexbox-course/CapstoneProject.html" added="2018-06-19T15:51:05Z" modified="2018-06-19T15:51:05Z" visited="2018-06-19T15:51:06Z">
+  <bookmark href="file:///home/alberto/Code/flexbox-course/CapstoneProject.html" added="2018-06-19T15:51:05Z" modified="2018-06-21T17:11:41Z" visited="2018-06-19T15:51:06Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/html"/>
@@ -221,12 +221,22 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/alberto/Desktop/ModuleSection" added="2018-06-21T16:29:59Z" modified="2018-06-21T16:29:59Z" visited="2018-06-21T16:30:00.182195Z">
+  <bookmark href="file:///home/alberto/Desktop/ModuleSection" added="2018-06-21T16:29:59Z" modified="2018-06-21T16:29:59Z" visited="2018-06-21T16:30:00Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
           <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2018-06-21T16:29:59Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alberto/Documents/codetosuccess/index.html" added="2018-06-21T16:49:34Z" modified="2018-06-21T16:49:34Z" visited="2018-06-21T16:49:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2018-06-21T16:49:34Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
