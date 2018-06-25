@@ -1,0 +1,17 @@
+[2018-06-25 11:59:47.643] [sharedprocess] [info] main {"machineId":"c106f26b37f394e88737a798310b2d62c8ee54b2f66f9eafa9ede5136ef3a8a8"}
+[2018-06-25 11:59:47.914] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-25 11:59:48.051] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-25 11:59:48.882] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-25 11:59:48.892] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-25 11:59:48.982] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-25 11:59:51.330] [sharedprocess] [info] Installing extension: debugger-for-chrome
+[2018-06-25 11:59:51.351] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-25 11:59:51.640] [sharedprocess] [info] Downloaded extension: debugger-for-chrome
+[2018-06-25 11:59:52.157] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-25 11:59:53.266] [sharedprocess] [info] Extracted extension to /home/alberto/.vscode/extensions/.msjsdiag.debugger-for-chrome-4.7.0: msjsdiag.debugger-for-chrome-4.7.0
+[2018-06-25 11:59:53.268] [sharedprocess] [info] Rename failed. Deleting from extracted location /home/alberto/.vscode/extensions/.msjsdiag.debugger-for-chrome-4.7.0
+[2018-06-25 11:59:53.421] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-25 11:59:53.421] [sharedprocess] [error] Failed to install extension: msjsdiag.debugger-for-chrome ENOTEMPTY: directory not empty, rename '/home/alberto/.vscode/extensions/.msjsdiag.debugger-for-chrome-4.7.0' -> '/home/alberto/.vscode/extensions/msjsdiag.debugger-for-chrome-4.7.0'
+[2018-06-25 11:59:53.976] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-25 11:59:54.175] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-25 12:00:27.698] [sharedprocess] [info] Starting to clean up unused language packs.
