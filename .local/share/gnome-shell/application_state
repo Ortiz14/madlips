@@ -4,10 +4,10 @@
     <application id="org.gnome.FileRoller.desktop" open-window-count="0" score="1" last-seen="1529945559"/>
     <application id="firefox.desktop" open-window-count="0" score="3.40625" last-seen="1529341858"/>
     <application id="gedit.desktop" open-window-count="0" score="0" last-seen="0"/>
-    <application id="org.gnome.Nautilus.desktop" open-window-count="1" score="43.0625" last-seen="1529945984"/>
+    <application id="org.gnome.Nautilus.desktop" open-window-count="0" score="44.0625" last-seen="1529949031"/>
     <application id="update-manager.desktop" open-window-count="0" score="0.578125" last-seen="1529936788"/>
-    <application id="code.desktop" open-window-count="1" score="15789.75" last-seen="1529948411"/>
-    <application id="google-chrome.desktop" open-window-count="2" score="1327.15625" last-seen="1529948451"/>
+    <application id="code.desktop" open-window-count="1" score="15891.75" last-seen="1529949243"/>
+    <application id="google-chrome.desktop" open-window-count="3" score="1329.15625" last-seen="1529949237"/>
     <application id="org.gnome.gedit.desktop" open-window-count="0" score="0.5" last-seen="1529601512"/>
     <application id="org.gnome.Terminal.desktop" open-window-count="0" score="129.421875" last-seen="1529947266"/>
     <application id="apport-gtk.desktop" open-window-count="0" score="0.03125" last-seen="1529601970"/>
