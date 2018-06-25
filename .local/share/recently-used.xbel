@@ -261,4 +261,24 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/alberto/Code/JavaScript-Course/RandomJava.js" added="2018-06-25T17:39:22Z" modified="2018-06-25T17:39:22Z" visited="2018-06-25T17:39:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2018-06-25T17:39:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alberto/Code/JavaScript-Course/index.html" added="2018-06-25T17:50:49Z" modified="2018-06-25T17:50:49Z" visited="2018-06-25T17:50:50.057157Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2018-06-25T17:50:49Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>
