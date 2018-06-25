@@ -16,3 +16,5 @@
 [2018-06-25 11:59:52.532] [exthost1] [info] eager extensions activated
 [2018-06-25 11:59:52.538] [exthost1] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
 [2018-06-25 11:59:52.538] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/html-language-features/client/out/htmlMain
+[2018-06-25 12:09:29.097] [exthost1] [info] ExtensionService#_doActivateExtension techer.open-in-browser {"startup":false,"activationEvent":"onCommand:extension.openInBrowser"}
+[2018-06-25 12:09:29.097] [exthost1] [info] ExtensionService#loadCommonJSModule /home/alberto/.vscode/extensions/techer.open-in-browser-1.1.0/extension

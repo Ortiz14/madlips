@@ -6,8 +6,8 @@
     <application id="gedit.desktop" open-window-count="0" score="0" last-seen="0"/>
     <application id="org.gnome.Nautilus.desktop" open-window-count="0" score="44.0625" last-seen="1529949031"/>
     <application id="update-manager.desktop" open-window-count="0" score="0.578125" last-seen="1529936788"/>
-    <application id="code.desktop" open-window-count="0" score="15927.75" last-seen="1529949570"/>
-    <application id="google-chrome.desktop" open-window-count="1" score="1337.15625" last-seen="1529949572"/>
+    <application id="code.desktop" open-window-count="1" score="15947.75" last-seen="1529949756"/>
+    <application id="google-chrome.desktop" open-window-count="1" score="1341.15625" last-seen="1529949627"/>
     <application id="org.gnome.gedit.desktop" open-window-count="0" score="0.5" last-seen="1529601512"/>
     <application id="org.gnome.Terminal.desktop" open-window-count="0" score="129.421875" last-seen="1529947266"/>
     <application id="apport-gtk.desktop" open-window-count="0" score="0.03125" last-seen="1529601970"/>
