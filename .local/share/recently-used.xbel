@@ -241,12 +241,22 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/alberto/Desktop" added="2018-06-25T15:51:16Z" modified="2018-06-25T15:51:16Z" visited="2018-06-25T15:51:16.810421Z">
+  <bookmark href="file:///home/alberto/Desktop" added="2018-06-25T15:51:16Z" modified="2018-06-25T15:51:16Z" visited="2018-06-25T15:51:16Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
           <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2018-06-25T15:51:16Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alberto/Downloads/npp.7.5.6.bin.zip" added="2018-06-25T16:52:26Z" modified="2018-06-25T16:52:31Z" visited="2018-06-25T16:52:26Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2018-06-25T16:52:31Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>

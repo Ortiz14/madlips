@@ -37,3 +37,12 @@ npm install devcamp-js-builder -g
 cd ~/Desktop/
 js-generate
 cd ModuleSection
+install notepad++
+install --help
+install notepad
+sudo snap install notepadqq
+sudo add -apt-repository paa:notepadqq-team/noteppadqq
+sudo apt-get install notepadqq
+sudo apt-get install notepaddqq
+sudo add-apt-repository ppa:notepadqq-team/notepadqq
+sudo apt-get install notepadqq

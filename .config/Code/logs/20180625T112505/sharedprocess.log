@@ -1,0 +1,22 @@
+[2018-06-25 11:25:07.727] [sharedprocess] [info] main {"machineId":"c106f26b37f394e88737a798310b2d62c8ee54b2f66f9eafa9ede5136ef3a8a8"}
+[2018-06-25 11:25:08.006] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-25 11:25:08.853] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-25 11:25:08.865] [sharedprocess] [info] Deleted from disk wallabyjs.quokka-vscode-1.0.131
+[2018-06-25 11:25:11.345] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-25 11:25:11.365] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-25 11:25:11.413] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-25 11:25:11.744] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-25 11:25:11.763] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-25 11:25:13.222] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-25 11:25:13.779] [sharedprocess] [info] Installing extension: debugger-for-chrome
+[2018-06-25 11:25:13.815] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-25 11:25:14.362] [sharedprocess] [info] Downloaded extension: debugger-for-chrome
+[2018-06-25 11:25:17.579] [sharedprocess] [info] Extracted extension to /home/alberto/.vscode/extensions/.msjsdiag.debugger-for-chrome-4.7.0: msjsdiag.debugger-for-chrome-4.7.0
+[2018-06-25 11:25:17.605] [sharedprocess] [info] Rename failed. Deleting from extracted location /home/alberto/.vscode/extensions/.msjsdiag.debugger-for-chrome-4.7.0
+[2018-06-25 11:25:18.125] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-25 11:25:18.125] [sharedprocess] [error] Failed to install extension: msjsdiag.debugger-for-chrome ENOTEMPTY: directory not empty, rename '/home/alberto/.vscode/extensions/.msjsdiag.debugger-for-chrome-4.7.0' -> '/home/alberto/.vscode/extensions/msjsdiag.debugger-for-chrome-4.7.0'
+[2018-06-25 11:25:18.263] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-25 11:25:18.429] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-25 11:25:47.802] [sharedprocess] [info] Starting to clean up unused language packs.
+[2018-06-25 11:30:13.331] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-25 11:35:13.386] [sharedprocess] [info] Scanned user extensions: 9

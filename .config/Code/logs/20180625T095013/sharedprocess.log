@@ -46,3 +46,21 @@
 [2018-06-25 09:51:25.109] [sharedprocess] [error] Failed to install extension: msjsdiag.debugger-for-chrome ENOTEMPTY: directory not empty, rename '/home/alberto/.vscode/extensions/.msjsdiag.debugger-for-chrome-4.7.0' -> '/home/alberto/.vscode/extensions/msjsdiag.debugger-for-chrome-4.7.0'
 [2018-06-25 09:51:25.266] [sharedprocess] [info] Scanned user extensions: 9
 [2018-06-25 09:51:25.359] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-25 09:51:55.839] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-25 09:51:55.853] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-25 09:51:55.861] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-25 09:51:56.620] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-25 09:51:56.649] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-25 09:56:22.666] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-25 10:01:22.685] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-25 10:06:22.699] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-25 10:11:22.723] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-25 10:16:22.758] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-25 10:21:22.780] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-25 10:26:22.798] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-25 10:31:22.815] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-25 10:36:22.835] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-25 10:41:22.861] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-25 10:46:22.910] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-25 10:51:23.083] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-25 10:56:23.132] [sharedprocess] [info] Scanned user extensions: 9
