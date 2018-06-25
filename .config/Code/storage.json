@@ -458,11 +458,12 @@
             }
         }
     },
-    "pickerWorkingDir": "/home/alberto/Desktop",
+    "pickerWorkingDir": "/home/alberto",
     "openedPathsList": {
         "workspaces": [
-            "/home/alberto/Desktop/ModuleSection",
+            "/home/alberto/Desktop",
             "/home/alberto/Code/JavaScript-couse",
+            "/home/alberto/Desktop/ModuleSection",
             "/home/alberto/Code/flexbox-course",
             "/home/alberto/Code"
         ],

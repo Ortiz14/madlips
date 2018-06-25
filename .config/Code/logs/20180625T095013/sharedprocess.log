@@ -1,0 +1,48 @@
+[2018-06-25 09:50:17.759] [sharedprocess] [info] main {"machineId":"c106f26b37f394e88737a798310b2d62c8ee54b2f66f9eafa9ede5136ef3a8a8"}
+[2018-06-25 09:50:17.996] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-25 09:50:18.325] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-25 09:50:21.160] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-25 09:50:21.178] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-25 09:50:21.239] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-25 09:50:21.638] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-25 09:50:21.668] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-25 09:50:23.161] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-25 09:50:23.970] [sharedprocess] [info] Installing extension: debugger-for-chrome
+[2018-06-25 09:50:23.972] [sharedprocess] [info] Installing extension: quokka-vscode
+[2018-06-25 09:50:24.010] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-25 09:50:24.034] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-25 09:50:24.821] [sharedprocess] [info] Downloaded extension: debugger-for-chrome
+[2018-06-25 09:50:25.023] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-25 09:50:25.042] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-25 09:50:25.064] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-25 09:50:25.461] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-25 09:50:25.488] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-25 09:50:25.695] [sharedprocess] [info] Downloaded extension: quokka-vscode
+[2018-06-25 09:50:30.102] [sharedprocess] [info] Extracted extension to /home/alberto/.vscode/extensions/.msjsdiag.debugger-for-chrome-4.7.0: msjsdiag.debugger-for-chrome-4.7.0
+[2018-06-25 09:50:30.110] [sharedprocess] [info] Rename failed. Deleting from extracted location /home/alberto/.vscode/extensions/.msjsdiag.debugger-for-chrome-4.7.0
+[2018-06-25 09:50:30.361] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-25 09:50:30.361] [sharedprocess] [error] Failed to install extension: msjsdiag.debugger-for-chrome ENOTEMPTY: directory not empty, rename '/home/alberto/.vscode/extensions/.msjsdiag.debugger-for-chrome-4.7.0' -> '/home/alberto/.vscode/extensions/msjsdiag.debugger-for-chrome-4.7.0'
+[2018-06-25 09:50:30.580] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-25 09:50:30.757] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-25 09:50:35.431] [sharedprocess] [info] Extracted extension to /home/alberto/.vscode/extensions/.wallabyjs.quokka-vscode-1.0.132: wallabyjs.quokka-vscode-1.0.132
+[2018-06-25 09:50:35.432] [sharedprocess] [info] Renamed to /home/alberto/.vscode/extensions/wallabyjs.quokka-vscode-1.0.132
+[2018-06-25 09:50:35.432] [sharedprocess] [info] Installation completed. wallabyjs.quokka-vscode-1.0.132
+[2018-06-25 09:50:35.452] [sharedprocess] [info] Extensions installed successfully: wallabyjs.quokka-vscode
+[2018-06-25 09:50:35.669] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-25 09:50:35.756] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-25 09:50:57.812] [sharedprocess] [info] Starting to clean up unused language packs.
+[2018-06-25 09:51:20.638] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-25 09:51:20.668] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-25 09:51:20.670] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-25 09:51:20.919] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-25 09:51:20.942] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-25 09:51:22.607] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-25 09:51:22.835] [sharedprocess] [info] Installing extension: debugger-for-chrome
+[2018-06-25 09:51:22.871] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-25 09:51:22.973] [sharedprocess] [info] Downloaded extension: debugger-for-chrome
+[2018-06-25 09:51:24.893] [sharedprocess] [info] Extracted extension to /home/alberto/.vscode/extensions/.msjsdiag.debugger-for-chrome-4.7.0: msjsdiag.debugger-for-chrome-4.7.0
+[2018-06-25 09:51:24.893] [sharedprocess] [info] Rename failed. Deleting from extracted location /home/alberto/.vscode/extensions/.msjsdiag.debugger-for-chrome-4.7.0
+[2018-06-25 09:51:25.109] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-25 09:51:25.109] [sharedprocess] [error] Failed to install extension: msjsdiag.debugger-for-chrome ENOTEMPTY: directory not empty, rename '/home/alberto/.vscode/extensions/.msjsdiag.debugger-for-chrome-4.7.0' -> '/home/alberto/.vscode/extensions/msjsdiag.debugger-for-chrome-4.7.0'
+[2018-06-25 09:51:25.266] [sharedprocess] [info] Scanned user extensions: 9
+[2018-06-25 09:51:25.359] [sharedprocess] [info] Scanned system extensions: 70

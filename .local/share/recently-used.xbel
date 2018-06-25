@@ -241,4 +241,14 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/alberto/Desktop" added="2018-06-25T15:51:16Z" modified="2018-06-25T15:51:16Z" visited="2018-06-25T15:51:16.810421Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2018-06-25T15:51:16Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>

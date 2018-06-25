@@ -1,0 +1,32 @@
+[2018-06-25 09:50:22.735] [exthost1] [info] extension host started
+[2018-06-25 09:50:22.950] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-06-25 09:50:22.950] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/out/extension
+[2018-06-25 09:50:23.250] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-06-25 09:50:23.250] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/out/main
+[2018-06-25 09:50:24.001] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-06-25 09:50:24.001] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2018-06-25 09:50:24.094] [exthost1] [info] ExtensionService#_doActivateExtension vscode.search-rg {"startup":true,"activationEvent":"*"}
+[2018-06-25 09:50:24.094] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/search-rg/out/extension
+[2018-06-25 09:50:24.124] [exthost1] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"activationEvent":"*"}
+[2018-06-25 09:50:24.124] [exthost1] [info] ExtensionService#loadCommonJSModule /home/alberto/.vscode/extensions/esbenp.prettier-vscode-1.5.0/out/src/extension
+[2018-06-25 09:50:25.051] [exthost1] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"activationEvent":"*"}
+[2018-06-25 09:50:25.051] [exthost1] [info] ExtensionService#loadCommonJSModule /home/alberto/.vscode/extensions/ritwickdey.liveserver-5.1.1/out/src/extension
+[2018-06-25 09:50:26.886] [exthost1] [info] ExtensionService#_doActivateExtension WallabyJs.quokka-vscode {"startup":true,"activationEvent":"*"}
+[2018-06-25 09:50:26.886] [exthost1] [info] ExtensionService#loadCommonJSModule /home/alberto/.vscode/extensions/wallabyjs.quokka-vscode-1.0.131/index
+[2018-06-25 09:50:26.917] [exthost1] [info] eager extensions activated
+[2018-06-25 09:51:22.007] [exthost1] [info] extension host started
+[2018-06-25 09:51:22.165] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-06-25 09:51:22.165] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/out/extension
+[2018-06-25 09:51:22.373] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-06-25 09:51:22.373] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/out/main
+[2018-06-25 09:51:23.030] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-06-25 09:51:23.030] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2018-06-25 09:51:23.079] [exthost1] [info] ExtensionService#_doActivateExtension vscode.search-rg {"startup":true,"activationEvent":"*"}
+[2018-06-25 09:51:23.079] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/search-rg/out/extension
+[2018-06-25 09:51:23.129] [exthost1] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"activationEvent":"*"}
+[2018-06-25 09:51:23.129] [exthost1] [info] ExtensionService#loadCommonJSModule /home/alberto/.vscode/extensions/esbenp.prettier-vscode-1.5.0/out/src/extension
+[2018-06-25 09:51:23.917] [exthost1] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"activationEvent":"*"}
+[2018-06-25 09:51:23.917] [exthost1] [info] ExtensionService#loadCommonJSModule /home/alberto/.vscode/extensions/ritwickdey.liveserver-5.1.1/out/src/extension
+[2018-06-25 09:51:25.093] [exthost1] [info] ExtensionService#_doActivateExtension WallabyJs.quokka-vscode {"startup":true,"activationEvent":"*"}
+[2018-06-25 09:51:25.093] [exthost1] [info] ExtensionService#loadCommonJSModule /home/alberto/.vscode/extensions/wallabyjs.quokka-vscode-1.0.132/index
+[2018-06-25 09:51:25.101] [exthost1] [info] eager extensions activated
