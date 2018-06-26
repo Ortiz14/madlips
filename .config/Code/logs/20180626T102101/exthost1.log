@@ -1,0 +1,18 @@
+[2018-06-26 10:21:07.471] [exthost1] [info] extension host started
+[2018-06-26 10:21:07.575] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-06-26 10:21:07.575] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/out/extension
+[2018-06-26 10:21:07.848] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-06-26 10:21:07.848] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/out/main
+[2018-06-26 10:21:08.811] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-06-26 10:21:08.811] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2018-06-26 10:21:08.892] [exthost1] [info] ExtensionService#_doActivateExtension vscode.search-rg {"startup":true,"activationEvent":"*"}
+[2018-06-26 10:21:08.892] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/search-rg/out/extension
+[2018-06-26 10:21:08.926] [exthost1] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"activationEvent":"*"}
+[2018-06-26 10:21:08.926] [exthost1] [info] ExtensionService#loadCommonJSModule /home/alberto/.vscode/extensions/esbenp.prettier-vscode-1.5.0/out/src/extension
+[2018-06-26 10:21:10.117] [exthost1] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"activationEvent":"*"}
+[2018-06-26 10:21:10.117] [exthost1] [info] ExtensionService#loadCommonJSModule /home/alberto/.vscode/extensions/ritwickdey.liveserver-5.1.1/out/src/extension
+[2018-06-26 10:21:11.422] [exthost1] [info] ExtensionService#_doActivateExtension WallabyJs.quokka-vscode {"startup":true,"activationEvent":"*"}
+[2018-06-26 10:21:11.422] [exthost1] [info] ExtensionService#loadCommonJSModule /home/alberto/.vscode/extensions/wallabyjs.quokka-vscode-1.0.132/index
+[2018-06-26 10:21:11.427] [exthost1] [info] eager extensions activated
+[2018-06-26 10:21:11.432] [exthost1] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2018-06-26 10:21:11.432] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/html-language-features/client/out/htmlMain

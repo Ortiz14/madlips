@@ -7550,6 +7550,32 @@
     </metadata>
   </component>
   <component type="shell-extension">
+    <id>dozenalclock_nicoviii.eu</id>
+    <name>Dozenal Clock</name>
+    <summary>GNOME Shell Extension</summary>
+    <description><p>Converts the clock to a dozenal one</p></description>
+    <icon type="stock">application-x-addon-symbolic</icon>
+    <categories>
+      <category>Addon</category>
+      <category>ShellExtension</category>
+    </categories>
+    <project_license>GPL-2.0+</project_license>
+    <url type="homepage">https://extensions.gnome.org/extension/1448/dozenal-clock/</url>
+    <screenshots>
+      <screenshot type="default">
+        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_1448_dEjXKKB.png</image>
+      </screenshot>
+    </screenshots>
+    <releases>
+      <release version="1"/>
+    </releases>
+    <metadata>
+      <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
+      <value key="GnomeSoftware::Plugin">shell-extensions</value>
+      <value key="shell-extensions::uuid">dozenalclock@nicoviii.eu</value>
+    </metadata>
+  </component>
+  <component type="shell-extension">
     <id>drive-menu_gnome-shell-extensions.gcampax.github.com</id>
     <name>Removable Drive Menu</name>
     <summary>GNOME Shell Extension</summary>
@@ -7602,7 +7628,7 @@
     <id>dropbox_orcinus4627.gmail.com</id>
     <name>dropbox indicator</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>Dropbox status indicator</p><p>This indicator shows the dropbox daemon status and serves some utilities for Dropbox. Before use this extension, you must install official Dropbox client for Linux.</p><p>  English: https://www.dropbox.com/en/install-linux   Japanese: https://www.dropbox.com/ja/install-linux</p></description>
+    <description><p>Dropbox status indicator</p><p>This indicator shows the dropbox daemon status and serves some utilities for Dropbox. Before use this extension, you must install official Dropbox client for Linux.</p><p>  English: https://www.dropbox.com/en/install-linux   Japanese: https://www.dropbox.com/ja/install-linux</p><p>Please report any bugs to Git repository (Extension Homepage) as an issue because I cannot reply here.</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -7616,7 +7642,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="1"/>
+      <release version="2"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -14268,6 +14294,27 @@
     </metadata>
   </component>
   <component type="shell-extension">
+    <id>org.gnome.desktop-icons-enhanced</id>
+    <name>Desktop Icons Enhanced</name>
+    <summary>GNOME Shell Extension</summary>
+    <description><p>Add icons to the desktop. PRECOMPILED BINARIES ARE USED FOR CLIPBOARD SUPPORT. It is recommended to recompile these binaries by yourself. The repository is available at https://gitlab.gnome.org/jfrei/org.gnome.desktop-icons</p></description>
+    <icon type="stock">application-x-addon-symbolic</icon>
+    <categories>
+      <category>Addon</category>
+      <category>ShellExtension</category>
+    </categories>
+    <project_license>GPL-2.0+</project_license>
+    <url type="homepage">https://extensions.gnome.org/extension/1444/desktop-icons-enhanced/</url>
+    <releases>
+      <release version="3"/>
+    </releases>
+    <metadata>
+      <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
+      <value key="GnomeSoftware::Plugin">shell-extensions</value>
+      <value key="shell-extensions::uuid">org.gnome.desktop-icons-enhanced</value>
+    </metadata>
+  </component>
+  <component type="shell-extension">
     <id>output-audio-devices_muflone</id>
     <name>Switch output audio devices</name>
     <summary>GNOME Shell Extension</summary>
@@ -18557,6 +18604,9 @@
         <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_1238_2uUhhj8.png</image>
       </screenshot>
     </screenshots>
+    <releases>
+      <release version="134"/>
+    </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
       <value key="GnomeSoftware::Plugin">shell-extensions</value>
@@ -18677,7 +18727,7 @@
     <id>todo.txt_bart.libert.gmail.com</id>
     <name>Todo.txt</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>A Gnome shell interface for todo.txt. </p><p>Todo.txt is a future-proof syntax for tasks (not made by me), for more info: http://todotxt.com/</p><p>Some examples: Task: Basic task (A) Task: High priority task Task @project +context: Task is part of project and has a certain context x 2013-08-22 Task: Task was completed on the 22nd of August</p><p>For more info about the syntax: https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format</p><p>Quick start: When you first enable the extension, chances are high you&apos;ll see a [X] in your top panel. If you click the [X], you will be able to choose between creating the necessary files automatically or selecting your own existing files to be used with the extension.</p><p>Please use the issue tracker on the homepage to report bugs and/or file feature requests, this makes tracking easier for me. Thanks!</p><p>See the included CHANGELOG.md for info about changes between different versions, or see it online: https://bitbucket.org/bartl/todo.txt-bart.libert.gmail.com/raw/tip/CHANGELOG.md</p></description>
+    <description><p>A Gnome shell interface for todo.txt. </p><p>Todo.txt is a future-proof syntax for tasks (not made by me), for more info: http://todotxt.com/</p><p>Some examples: Task: Basic task (A) Task: High priority task Task @project +context: Task is part of project and has a certain context x 2013-08-22 Task: Task was completed on the 22nd of August</p><p>For more info about the syntax: https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format</p><p>Quick start: When you first enable the extension, chances are high you&apos;ll see a [X] in your top panel. If you click the [X], you will be able to choose between creating the necessary files automatically or selecting your own existing files to be used with the extension.</p><p>Please use the issue tracker on the homepage to report bugs and/or file feature requests, this makes tracking easier for me. Thanks!</p><p>See the included CHANGELOG.md for info about changes between different versions, or see it online: https://gitlab.com/bartl/todo.txt-bart.libert.gmail.com/raw/tip/CHANGELOG.md</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>

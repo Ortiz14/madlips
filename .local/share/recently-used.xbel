@@ -271,12 +271,22 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/alberto/Code/JavaScript-Course/index.html" added="2018-06-25T17:50:49Z" modified="2018-06-25T17:50:49Z" visited="2018-06-25T17:50:50.057157Z">
+  <bookmark href="file:///home/alberto/Code/JavaScript-Course/index.html" added="2018-06-25T17:50:49Z" modified="2018-06-25T17:50:49Z" visited="2018-06-25T17:50:50Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/html"/>
         <bookmark:applications>
           <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2018-06-25T17:50:49Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alberto/Code/JavaScript-Course" added="2018-06-25T18:38:13Z" modified="2018-06-25T18:38:13Z" visited="2018-06-25T18:38:14.211951Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2018-06-25T18:38:13Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

@@ -18,3 +18,23 @@
 [2018-06-25 11:59:52.538] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/html-language-features/client/out/htmlMain
 [2018-06-25 12:09:29.097] [exthost1] [info] ExtensionService#_doActivateExtension techer.open-in-browser {"startup":false,"activationEvent":"onCommand:extension.openInBrowser"}
 [2018-06-25 12:09:29.097] [exthost1] [info] ExtensionService#loadCommonJSModule /home/alberto/.vscode/extensions/techer.open-in-browser-1.1.0/extension
+[2018-06-25 12:38:23.629] [exthost1] [info] extension host started
+[2018-06-25 12:38:23.831] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-06-25 12:38:23.831] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/out/extension
+[2018-06-25 12:38:24.126] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-06-25 12:38:24.126] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/out/main
+[2018-06-25 12:38:25.053] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-06-25 12:38:25.053] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2018-06-25 12:38:25.120] [exthost1] [info] ExtensionService#_doActivateExtension vscode.search-rg {"startup":true,"activationEvent":"*"}
+[2018-06-25 12:38:25.136] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/search-rg/out/extension
+[2018-06-25 12:38:25.155] [exthost1] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"activationEvent":"*"}
+[2018-06-25 12:38:25.155] [exthost1] [info] ExtensionService#loadCommonJSModule /home/alberto/.vscode/extensions/esbenp.prettier-vscode-1.5.0/out/src/extension
+[2018-06-25 12:38:26.098] [exthost1] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"activationEvent":"*"}
+[2018-06-25 12:38:26.098] [exthost1] [info] ExtensionService#loadCommonJSModule /home/alberto/.vscode/extensions/ritwickdey.liveserver-5.1.1/out/src/extension
+[2018-06-25 12:38:27.573] [exthost1] [info] ExtensionService#_doActivateExtension WallabyJs.quokka-vscode {"startup":true,"activationEvent":"*"}
+[2018-06-25 12:38:27.573] [exthost1] [info] ExtensionService#loadCommonJSModule /home/alberto/.vscode/extensions/wallabyjs.quokka-vscode-1.0.132/index
+[2018-06-25 12:38:27.593] [exthost1] [info] eager extensions activated
+[2018-06-25 12:38:27.597] [exthost1] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2018-06-25 12:38:27.597] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/html-language-features/client/out/htmlMain
+[2018-06-25 12:41:21.650] [exthost1] [info] ExtensionService#_doActivateExtension techer.open-in-browser {"startup":false,"activationEvent":"onCommand:extension.openInBrowser"}
+[2018-06-25 12:41:21.650] [exthost1] [info] ExtensionService#loadCommonJSModule /home/alberto/.vscode/extensions/techer.open-in-browser-1.1.0/extension

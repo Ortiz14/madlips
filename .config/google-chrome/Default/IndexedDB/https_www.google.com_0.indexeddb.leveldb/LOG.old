@@ -1,3 +1,3 @@
-2018/06/25-10:53:05.978 4859 Reusing MANIFEST /home/alberto/.config/google-chrome/Default/IndexedDB/https_www.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2018/06/25-10:53:05.979 4859 Recovering log #3
-2018/06/25-10:53:05.980 4859 Reusing old log /home/alberto/.config/google-chrome/Default/IndexedDB/https_www.google.com_0.indexeddb.leveldb/000003.log 
+2018/06/25-11:32:58.823 9952 Reusing MANIFEST /home/alberto/.config/google-chrome/Default/IndexedDB/https_www.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2018/06/25-11:32:58.823 9952 Recovering log #3
+2018/06/25-11:32:58.824 9952 Reusing old log /home/alberto/.config/google-chrome/Default/IndexedDB/https_www.google.com_0.indexeddb.leveldb/000003.log 
