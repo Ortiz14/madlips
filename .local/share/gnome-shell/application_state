@@ -5,8 +5,8 @@
     <application id="gnome-control-center.desktop" open-window-count="0" score="3" last-seen="1530033500"/>
     <application id="org.gnome.Nautilus.desktop" open-window-count="1" score="12.015625" last-seen="1530034115"/>
     <application id="update-manager.desktop" open-window-count="0" score="0.14453125" last-seen="1529936788"/>
-    <application id="code.desktop" open-window-count="1" score="18659.9375" last-seen="1530200811"/>
-    <application id="google-chrome.desktop" open-window-count="1" score="803.0390625" last-seen="1530200826"/>
+    <application id="code.desktop" open-window-count="1" score="18716.9375" last-seen="1530201306"/>
+    <application id="google-chrome.desktop" open-window-count="1" score="807.0390625" last-seen="1530201280"/>
     <application id="org.gnome.gedit.desktop" open-window-count="0" score="0.125" last-seen="1529601512"/>
     <application id="org.gnome.Terminal.desktop" open-window-count="0" score="32.35546875" last-seen="1530030059"/>
     <application id="apport-gtk.desktop" open-window-count="0" score="0.0078125" last-seen="1529601970"/>
