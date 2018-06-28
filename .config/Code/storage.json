@@ -461,12 +461,12 @@
     "pickerWorkingDir": "/home/alberto/Code",
     "openedPathsList": {
         "workspaces": [
-            "/home/alberto/Desktop",
             "/home/alberto/Code/JavaScript-Course",
+            "/home/alberto/Code",
+            "/home/alberto/Desktop",
             "/home/alberto/Code/JavaScript-couse",
             "/home/alberto/Desktop/ModuleSection",
-            "/home/alberto/Code/flexbox-course",
-            "/home/alberto/Code"
+            "/home/alberto/Code/flexbox-course"
         ],
         "files": [
             "/home/alberto/Documents/codetosuccess/index.html",
