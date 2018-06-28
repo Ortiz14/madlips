@@ -5404,6 +5404,9 @@
         <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_1401.png</image>
       </screenshot>
     </screenshots>
+    <releases>
+      <release version="3"/>
+    </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
       <value key="GnomeSoftware::Plugin">shell-extensions</value>
@@ -6602,7 +6605,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="14"/>
+      <release version="15"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -9620,6 +9623,9 @@
         <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_1112_Jil5Fvi.png</image>
       </screenshot>
     </screenshots>
+    <releases>
+      <release version="26"/>
+    </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
       <value key="GnomeSoftware::Plugin">shell-extensions</value>
@@ -14062,7 +14068,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="15"/>
+      <release version="16"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -18601,11 +18607,11 @@
     <url type="homepage">https://extensions.gnome.org/extension/1238/time/</url>
     <screenshots>
       <screenshot type="default">
-        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_1238_2uUhhj8.png</image>
+        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_1238_27UXoEd.png</image>
       </screenshot>
     </screenshots>
     <releases>
-      <release version="134"/>
+      <release version="135"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -21096,6 +21102,32 @@
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
       <value key="GnomeSoftware::Plugin">shell-extensions</value>
       <value key="shell-extensions::uuid">workspaces-to-dock@passingthru67.gmail.com</value>
+    </metadata>
+  </component>
+  <component type="shell-extension">
+    <id>world-cup-indicator-gs_atareao.es</id>
+    <name>World Cup Indicator</name>
+    <summary>GNOME Shell Extension</summary>
+    <description><p>The World Cup 2.018 in your desktop. Get the current matches information in the own desktop.</p></description>
+    <icon type="stock">application-x-addon-symbolic</icon>
+    <categories>
+      <category>Addon</category>
+      <category>ShellExtension</category>
+    </categories>
+    <project_license>GPL-2.0+</project_license>
+    <url type="homepage">https://extensions.gnome.org/extension/1450/world-cup-indicator/</url>
+    <screenshots>
+      <screenshot type="default">
+        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_1450.png</image>
+      </screenshot>
+    </screenshots>
+    <releases>
+      <release version="2"/>
+    </releases>
+    <metadata>
+      <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
+      <value key="GnomeSoftware::Plugin">shell-extensions</value>
+      <value key="shell-extensions::uuid">world-cup-indicator-gs@atareao.es</value>
     </metadata>
   </component>
   <component type="shell-extension">

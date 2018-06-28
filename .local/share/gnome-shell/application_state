@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="org.gnome.FileRoller.desktop" open-window-count="0" score="0.5" last-seen="1529945559"/>
-    <application id="gnome-control-center.desktop" open-window-count="0" score="6" last-seen="1530033500"/>
-    <application id="org.gnome.Nautilus.desktop" open-window-count="1" score="24.03125" last-seen="1530034115"/>
-    <application id="update-manager.desktop" open-window-count="0" score="0.2890625" last-seen="1529936788"/>
-    <application id="code.desktop" open-window-count="1" score="14387.875" last-seen="1530040553"/>
-    <application id="google-chrome.desktop" open-window-count="1" score="1454.078125" last-seen="1530040491"/>
-    <application id="org.gnome.gedit.desktop" open-window-count="0" score="0.25" last-seen="1529601512"/>
-    <application id="org.gnome.Terminal.desktop" open-window-count="0" score="64.7109375" last-seen="1530030059"/>
-    <application id="apport-gtk.desktop" open-window-count="0" score="0.015625" last-seen="1529601970"/>
-    <application id="org.gnome.Software.desktop" open-window-count="0" score="0.21875" last-seen="1529945882"/>
-    <application id="notepadqq_notepadqq.desktop" open-window-count="0" score="70.5" last-seen="1529947361"/>
+    <application id="org.gnome.FileRoller.desktop" open-window-count="0" score="0.25" last-seen="1529945559"/>
+    <application id="gnome-control-center.desktop" open-window-count="0" score="3" last-seen="1530033500"/>
+    <application id="org.gnome.Nautilus.desktop" open-window-count="1" score="12.015625" last-seen="1530034115"/>
+    <application id="update-manager.desktop" open-window-count="0" score="0.14453125" last-seen="1529936788"/>
+    <application id="code.desktop" open-window-count="1" score="18544.9375" last-seen="1530199515"/>
+    <application id="google-chrome.desktop" open-window-count="1" score="744.0390625" last-seen="1530199497"/>
+    <application id="org.gnome.gedit.desktop" open-window-count="0" score="0.125" last-seen="1529601512"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="0" score="32.35546875" last-seen="1530030059"/>
+    <application id="apport-gtk.desktop" open-window-count="0" score="0.0078125" last-seen="1529601970"/>
+    <application id="org.gnome.Software.desktop" open-window-count="0" score="0.109375" last-seen="1529945882"/>
+    <application id="notepadqq_notepadqq.desktop" open-window-count="0" score="35.25" last-seen="1529947361"/>
   </context>
 </application-state>
